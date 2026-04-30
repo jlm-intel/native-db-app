@@ -285,6 +285,8 @@ def main():
         st.write(f"Running on Streamlit Cloud. CWD: {os.getcwd()}")
     else:
         st.write(f"Running locally. CWD: {os.getcwd()}")
+    files = os.listdir(os.getcwd())
+    st.write(f"Files in CWD: {files}")
 
     # always show the display options sidebar, but disable the filter options if no XML files were found
     st.sidebar.header("Display Options")
