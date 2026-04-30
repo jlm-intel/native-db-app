@@ -260,7 +260,8 @@ def main():
         st.session_state.app_list = []
         st.session_state.log_container = None
         if is_cloud():
-            st.session_state.dir_path = "./webdata"
+            # when running in the cloud the working directory is the repo root, so we need to point into the src folder for the static XML data
+            st.session_state.dir_path = "src/webdata"
         else:
             # default windows system path below. mac os default would be "[System HD]/Library/Application Support/Native Instruments/Service Center"
             st.session_state.dir_path = r"C:\Program Files\Common Files\Native Instruments\Service Center"
