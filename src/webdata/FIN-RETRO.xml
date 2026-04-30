@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints version="1.0.0.0">
+  <Product version="10">
+    <UPID>94F0F07E-3E9A-42E1-BB7D-59801CE416CE</UPID>
+    <Name>FIN-RETRO</Name>
+    <RegKey>FIN-RETRO</RegKey>
+    <BinName>FIN-RETRO</BinName>
+    <AuthAppID>500</AuthAppID>
+    <PluginID fx="true">0x46495245</PluginID>
+    <Company>UJAM</Company>
+    <FactoryLibrary>
+      <Name>FIN-RETRO</Name>
+      <Relevance>
+        <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+        <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      </Relevance>
+    </FactoryLibrary>
+    <Type>Plugin</Type>
+    <AuthSystem>None</AuthSystem>
+  </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>a01f5573-186e-4030-9c22-4c64e41337f7</UPID>
+        <Name>GW ToneCentric Stereo</Name>
+        <RegKey>Waves-GW ToneCentric Stereo</RegKey>
+        <BinName>GW ToneCentric</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>GW ToneCentric</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

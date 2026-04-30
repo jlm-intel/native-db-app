@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>8c515afd-e9d3-42b4-8ac6-8abc069e1010</UPID>
+        <Name>EMO-F2 Stereo</Name>
+        <RegKey>Waves-EMO-F2 Stereo</RegKey>
+        <BinName>EMO-F2</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4092324</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>EMO-F2</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

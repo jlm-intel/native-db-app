@@ -241,6 +241,11 @@ def populate_lists():
     return process_complete
 
 
+def is_cloud():
+    # This environment variable only exists on Streamlit Community Cloud
+    return os.environ.get("STREAMLIT_RUNTIME_ENV") is not None
+
+
 def main():
 
     st.title("Native DB App")
@@ -254,8 +259,11 @@ def main():
         st.session_state.file_list = []
         st.session_state.app_list = []
         st.session_state.log_container = None
-        # default windows system path below. mac os default would be "[System HD]/Library/Application Support/Native Instruments/Service Center"
-        st.session_state.dir_path = r"C:\Program Files\Common Files\Native Instruments\Service Center"
+        if is_cloud():
+            st.session_state.dir_path = "./webdata"
+        else:
+            # default windows system path below. mac os default would be "[System HD]/Library/Application Support/Native Instruments/Service Center"
+            st.session_state.dir_path = r"C:\Program Files\Common Files\Native Instruments\Service Center"
         st.session_state.company_names = set()
         st.session_state.product_types = set()
         st.session_state.dependency_view = False
@@ -272,6 +280,11 @@ def main():
                 else:
                     st.error(
                         "The specified path is not a valid directory or is inaccessible.")
+
+    if is_cloud():
+        st.write("Running on Streamlit Cloud")
+    else:
+        st.write("Running locally")
 
     # always show the display options sidebar, but disable the filter options if no XML files were found
     st.sidebar.header("Display Options")

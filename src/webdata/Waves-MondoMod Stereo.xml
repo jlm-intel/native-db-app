@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>57590a50-41cb-4409-aaae-e3ceb01455ea</UPID>
+        <Name>MondoMod Stereo</Name>
+        <RegKey>Waves-MondoMod Stereo</RegKey>
+        <BinName>MondoMod</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4a2cc30</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MondoMod</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

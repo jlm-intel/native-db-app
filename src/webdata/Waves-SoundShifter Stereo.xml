@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>9852c730-ab26-4843-acb1-a815e50c38b5</UPID>
+        <Name>SoundShifter Stereo</Name>
+        <RegKey>Waves-SoundShifter Stereo</RegKey>
+        <BinName>SoundShifter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50e8758</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>SoundShifter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

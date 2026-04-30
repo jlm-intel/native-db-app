@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ This is a template for an NI Product Information file.
+
+ This file should be installed to
+ C:\Program Files\Common Files\Native Instruments\Service Center
+ or
+ [System HD]/Library/Application Support/Native Instruments/Service Center.
+
+ Please replace all $...$ with the appropriate information for your product.
+ -->
+
+<ProductHints>
+    <Product version="1">
+        <!--
+         Increment this version in case you plan to ship an updated version of this xml
+         -->
+        <UPID>f9a9fad6-ba83-4df0-9e60-776700bde0d6</UPID>
+        <Name>bx_oberhausen</Name>
+        <RegKey>Plugin Alliance-bx_oberhausen</RegKey>
+        <BinName>bx_oberhausen</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="false">62784f53</PluginID>
+        <!-- In hex format, e.g. 0x53756253 for 'SubS';
+         Set fx='false' if your plugin is not an Audio Effect
+		bxOS => 62784f53
+         -->
+        <Company>Plugin Alliance</Company>
+        <FactoryLibrary>
+            <Name>Brainworx bx_oberhausen Factory Library</Name>
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>b78d7cb4-deae-4168-a569-bce6527ad1ee</UPID>
+        <Name>L2 Stereo</Name>
+        <RegKey>Waves-L2 Stereo</RegKey>
+        <BinName>L2</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x48f6a87</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>L2</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

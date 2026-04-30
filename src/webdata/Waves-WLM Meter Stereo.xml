@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>d0928420-6248-4242-affa-ff08559f6593</UPID>
+        <Name>WLM Meter Stereo</Name>
+        <RegKey>Waves-WLM Meter Stereo</RegKey>
+        <BinName>WLM Meter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>WLM Meter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c7994b2a-482f-4fdb-82a8-f1061d907760</UPID>
+        <Name>C4 Stereo</Name>
+        <RegKey>Waves-C4 Stereo</RegKey>
+        <BinName>C4</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4ef125b</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>C4</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

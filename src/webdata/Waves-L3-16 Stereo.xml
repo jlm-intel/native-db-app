@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>e789810b-dbe1-46d8-a053-49d9ad8939d1</UPID>
+        <Name>L316 Stereo</Name>
+        <RegKey>Waves-L3-16 Stereo</RegKey>
+        <BinName>L3-16</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x48f9327</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>L3-16</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

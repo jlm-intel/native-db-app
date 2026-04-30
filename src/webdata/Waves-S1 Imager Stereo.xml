@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>2fcf7e9b-3a4c-4645-b01a-da781feba123</UPID>
+        <Name>S1 Imager Stereo</Name>
+        <RegKey>Waves-S1 Imager Stereo</RegKey>
+        <BinName>S1 Imager</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>S1 Imager</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>1a203151-7c51-4a52-b71a-8bcce3b3bd05</UPID>
+        <Name>RVox Stereo</Name>
+        <RegKey>Waves-RVox Stereo</RegKey>
+        <BinName>RVox</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>RVox</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

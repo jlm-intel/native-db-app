@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>1e4ef025-95da-4be0-a9e4-77803bcb94cc</UPID>
+        <Name>L3-LL Multi Stereo</Name>
+        <RegKey>Waves-L3-LL Multi Stereo</RegKey>
+        <BinName>L3-LL Multi</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4eb2043</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>L3-LL Multi</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

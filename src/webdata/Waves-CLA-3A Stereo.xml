@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>f18c530d-8a73-4fce-8d9a-cfd8b947547d</UPID>
+        <Name>CLA-3A Stereo</Name>
+        <RegKey>Waves-CLA-3A Stereo</RegKey>
+        <BinName>CLA-3A</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>CLA-3A</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

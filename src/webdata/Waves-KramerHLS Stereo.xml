@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>43c48b45-b214-4faf-b06c-69c2421f8671</UPID>
+        <Name>KramerHLS Stereo</Name>
+        <RegKey>Waves-KramerHLS Stereo</RegKey>
+        <BinName>KramerHLS</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x455474f</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>KramerHLS</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

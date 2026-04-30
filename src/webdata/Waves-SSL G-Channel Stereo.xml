@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="3">
+        <UPID>81f41ac8-dfdb-4347-b501-4ef10324d595</UPID>
+        <Name>SSL G-Channel Stereo</Name>
+        <RegKey>Waves-SSL G-Channel Stereo</RegKey>
+        <BinName>SSL G-Channel</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>SSL G-Channel</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

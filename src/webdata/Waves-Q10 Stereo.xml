@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>cdde4131-8b06-4f55-ae26-ea2b95fabd88</UPID>
+        <Name>Q10 Stereo</Name>
+        <RegKey>Waves-Q10 Stereo</RegKey>
+        <BinName>Q10</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4294aa4</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Q10</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

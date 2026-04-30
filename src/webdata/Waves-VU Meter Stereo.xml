@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>e213a3f8-6cbf-446e-ad28-af51571ad59f</UPID>
+        <Name>VU Meter Stereo</Name>
+        <RegKey>Waves-VU Meter Stereo</RegKey>
+        <BinName>VU Meter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x52d5837</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>VU Meter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

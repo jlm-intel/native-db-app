@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>31cf1e27-b615-4111-b5e2-e429be77cbe5</UPID>
+        <Name>Q-Clone Stereo</Name>
+        <RegKey>Waves-Q-Clone Stereo</RegKey>
+        <BinName>Q-Clone</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4fe5a21</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Q-Clone</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

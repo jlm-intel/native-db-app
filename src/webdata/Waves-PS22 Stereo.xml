@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c1c9097a-edc5-4786-a936-a0dd3846d583</UPID>
+        <Name>PS22 Stereo</Name>
+        <RegKey>Waves-PS22 Stereo</RegKey>
+        <BinName>PS22</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4d17ef0</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>PS22</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

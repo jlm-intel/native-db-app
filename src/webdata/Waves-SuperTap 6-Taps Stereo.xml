@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>e4e3fc77-5e46-4be3-aaad-6b1862c784f4</UPID>
+        <Name>SuperTap 6-Taps Stereo</Name>
+        <RegKey>Waves-SuperTap 6-Taps Stereo</RegKey>
+        <BinName>SuperTap 6-Taps</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4a3d3eb</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>SuperTap 6-Taps</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

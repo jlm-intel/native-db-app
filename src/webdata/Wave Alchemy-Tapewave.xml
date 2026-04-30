@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+    <Product version="1">
+        <UPID>9ae5e426-f424-4414-b688-6ba858dfc2ab</UPID>
+        <Name>Tapewave</Name>
+        <RegKey>Wave Alchemy-Tapewave</RegKey>
+        <BinName>Tapewave</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x44695661</PluginID>
+        <Company>Wave Alchemy</Company>
+        <FactoryLibrary>
+            <Name>Tapewave</Name>
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

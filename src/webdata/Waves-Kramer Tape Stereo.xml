@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>15a6d109-f00e-45b0-9f87-9c4f8a21cf36</UPID>
+        <Name>Kramer Tape Stereo</Name>
+        <RegKey>Waves-Kramer Tape Stereo</RegKey>
+        <BinName>Kramer Tape</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50bc7a3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Kramer Tape</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

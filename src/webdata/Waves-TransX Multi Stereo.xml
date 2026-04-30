@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>2e3863e6-8564-47dc-9187-6a309553b064</UPID>
+        <Name>TransX Multi Stereo</Name>
+        <RegKey>Waves-TransX Multi Stereo</RegKey>
+        <BinName>TransX Multi</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50f3f23</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>TransX Multi</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

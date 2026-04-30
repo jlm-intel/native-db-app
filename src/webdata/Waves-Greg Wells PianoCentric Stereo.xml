@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>ba2eb05a-bbb8-481c-9f02-b2d1ccc70ebc</UPID>
+        <Name>Greg Wells PianoCentric Stereo</Name>
+        <RegKey>Waves-Greg Wells PianoCentric Stereo</RegKey>
+        <BinName>Greg Wells PianoCentric</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Greg Wells PianoCentric</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

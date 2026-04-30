@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>89ae52b8-33b3-4fc3-ae52-120f51e6c1a6</UPID>
+        <Name>PuigChild 670 Stereo</Name>
+        <RegKey>Waves-PuigChild 670 Stereo</RegKey>
+        <BinName>PuigChild 670</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4367323</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>PuigChild 670</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

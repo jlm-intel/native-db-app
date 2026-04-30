@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c3135bbb-76a2-4609-8a48-9af41b1a5550</UPID>
+        <Name>PuigChild 660 Mono</Name>
+        <RegKey>Waves-PuigChild 660 Mono</RegKey>
+        <BinName>PuigChild 660</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x436731d</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>PuigChild 660</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

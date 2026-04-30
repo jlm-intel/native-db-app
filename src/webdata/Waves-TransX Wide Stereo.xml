@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>44fa1f08-1069-43a8-84a9-0cd5c60190ca</UPID>
+        <Name>TransX Wide Stereo</Name>
+        <RegKey>Waves-TransX Wide Stereo</RegKey>
+        <BinName>TransX Wide</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50f4ccf</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>TransX Wide</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

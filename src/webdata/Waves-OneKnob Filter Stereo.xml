@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c088cb8e-3856-4a73-bb14-fad76011fdf6</UPID>
+        <Name>OneKnob Filter Stereo</Name>
+        <RegKey>Waves-OneKnob Filter Stereo</RegKey>
+        <BinName>OneKnob Filter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4effe5b</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>OneKnob Filter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

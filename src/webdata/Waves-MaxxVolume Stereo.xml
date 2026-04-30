@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>ff47ab28-4fbb-4315-92d1-8801b9f7c505</UPID>
+        <Name>MaxxVolume Stereo</Name>
+        <RegKey>Waves-MaxxVolume Stereo</RegKey>
+        <BinName>MaxxVolume</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MaxxVolume</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

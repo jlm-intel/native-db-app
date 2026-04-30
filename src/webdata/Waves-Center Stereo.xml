@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>f23aa720-1daf-4759-8ec0-fb7e22683394</UPID>
+        <Name>Center Stereo</Name>
+        <RegKey>Waves-Center Stereo</RegKey>
+        <BinName>Center</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Center</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

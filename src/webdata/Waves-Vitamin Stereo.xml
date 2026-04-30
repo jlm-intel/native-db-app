@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>b8e95897-a385-4be7-bc20-4b097d44144d</UPID>
+        <Name>Vitamin Stereo</Name>
+        <RegKey>Waves-Vitamin Stereo</RegKey>
+        <BinName>Vitamin</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Vitamin</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

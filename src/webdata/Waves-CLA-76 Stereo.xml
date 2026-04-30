@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>53b55bc7-d882-4e3a-9b6f-7b0e0106014e</UPID>
+        <Name>CLA-76 Stereo</Name>
+        <RegKey>Waves-CLA-76 Stereo</RegKey>
+        <BinName>CLA-76</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>CLA-76</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

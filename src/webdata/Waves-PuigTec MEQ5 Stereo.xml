@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>96da1b7f-a79a-48b0-8455-3124adde8bf3</UPID>
+        <Name>PuigTec MEQ5 Stereo</Name>
+        <RegKey>Waves-PuigTec MEQ5 Stereo</RegKey>
+        <BinName>PuigTec MEQ5</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>PuigTec MEQ5</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

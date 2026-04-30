@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>a27bad01-2956-4929-90fe-56f771788ae6</UPID>
+        <Name>Morphoder Stereo</Name>
+        <RegKey>Waves-Morphoder Stereo</RegKey>
+        <BinName>Morphoder</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x52a9592</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Morphoder</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

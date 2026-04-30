@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>3c2bfc90-2fa8-4b4b-b002-77d782e4b7c9</UPID>
+        <Name>LinMB Stereo</Name>
+        <RegKey>Waves-LinMB Stereo</RegKey>
+        <BinName>LinMB</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x493b036</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>LinMB</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

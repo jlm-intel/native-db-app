@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>69e6e8d3-973c-48bd-ac73-a76b3fd7513b</UPID>
+        <Name>UltraPitch 3 Voices Stereo</Name>
+        <RegKey>Waves-UltraPitch 3 Voices Stereo</RegKey>
+        <BinName>UltraPitch 3 Voices</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4fd8b84</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>UltraPitch 3 Voices</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

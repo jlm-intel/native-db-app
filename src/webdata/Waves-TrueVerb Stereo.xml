@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>e13ccd7a-3ac0-4ac4-bff2-2268f3b7c8ae</UPID>
+        <Name>TrueVerb Stereo</Name>
+        <RegKey>Waves-TrueVerb Stereo</RegKey>
+        <BinName>TrueVerb</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50ef103</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>TrueVerb</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>a40ca200-ca5d-466c-9776-11fa0641795a</UPID>
+        <Name>UltraPitch Shift Stereo</Name>
+        <RegKey>Waves-UltraPitch Shift Stereo</RegKey>
+        <BinName>UltraPitch Shift</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4fd9868</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>UltraPitch Shift</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

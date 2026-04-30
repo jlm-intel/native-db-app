@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c4b08ba5-c383-4f0a-9935-c9ca78cc21d6</UPID>
+        <Name>KramerPIE Stereo</Name>
+        <RegKey>Waves-KramerPIE Stereo</RegKey>
+        <BinName>KramerPIE</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4d26559</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>KramerPIE</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

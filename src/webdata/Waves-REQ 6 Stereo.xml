@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>1eb94853-61b8-4950-9ce5-53646dfa6254</UPID>
+        <Name>REQ 6 Stereo</Name>
+        <RegKey>Waves-REQ 6 Stereo</RegKey>
+        <BinName>REQ 6</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>REQ 6</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

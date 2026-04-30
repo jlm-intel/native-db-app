@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>75147060-8c93-4413-8673-ec5c0aa92e7a</UPID>
+        <Name>EMO-Q4 Stereo</Name>
+        <RegKey>Waves-EMO-Q4 Stereo</RegKey>
+        <BinName>EMO-Q4</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4096e85</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>EMO-Q4</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

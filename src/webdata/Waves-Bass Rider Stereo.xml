@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>f76261a3-7706-4c6d-975c-593e69b24a32</UPID>
+        <Name>Bass Rider Stereo</Name>
+        <RegKey>Waves-Bass Rider Stereo</RegKey>
+        <BinName>Bass Rider</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x3fbdcb3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Bass Rider</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>
