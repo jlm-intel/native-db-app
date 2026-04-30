@@ -12,8 +12,8 @@ In order to run locally you must have the following installed on your computer:
 
 After cloning the repo locally you can run the app by doing the following:
 
-> cd src
-> streamlit run app.py
+` cd src
+` streamlit run app.py
 
 The app will launch in your default browser. If you are running on Windows, it will probably find your Service Center files and load them automatically.
 
