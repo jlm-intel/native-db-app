@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+    <Product version="1"> 
+      <UPID>a47dc220-22ce-45bd-ad18-e013eb606f45</UPID>
+      <Name>Saturation Knob</Name>
+      <RegKey>Softube-SaturationKnob</RegKey>
+      <BinName>Saturation Knob</BinName>
+      <AuthAppID>500</AuthAppID>
+      <PluginID fx="true">0x7361746e</PluginID>
+      <Company>Softube</Company>
+      <FactoryLibrary>
+	<Name>Saturation Knob</Name>
+	<Relevance>
+	  <Application minVersion="1.3" nativeContent="false">KKontrol</Application>
+	  <Application minVersion="2.4" nativeContent="false">Maschine</Application> 
+	</Relevance>
+      </FactoryLibrary> 
+      <Type>Plugin</Type>
+      <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

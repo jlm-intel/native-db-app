@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>a896b51b-ead8-4652-b2f3-04fd1690508e</UPID>
+        <Name>Waves Tune Real-Time Stereo</Name>
+        <RegKey>Waves-Waves Tune Real-Time Stereo</RegKey>
+        <BinName>Waves Tune Real-Time</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x494e863</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Waves Tune Real-Time</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

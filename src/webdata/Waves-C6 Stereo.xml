@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>d628f723-0760-4982-b0a3-dd9b8cd125e9</UPID>
+        <Name>C6 Stereo</Name>
+        <RegKey>Waves-C6 Stereo</RegKey>
+        <BinName>C6</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>C6</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

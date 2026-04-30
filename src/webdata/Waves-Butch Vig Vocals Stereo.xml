@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>0c58c41a-861f-4ac9-ad72-8d9bd4dcdc14</UPID>
+        <Name>Butch Vig Vocals Stereo</Name>
+        <RegKey>Waves-Butch Vig Vocals Stereo</RegKey>
+        <BinName>Butch Vig Vocals</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x3fc55cb</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Butch Vig Vocals</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>b9620afd-0a35-438f-a510-f74241718336</UPID>
+        <Name>JJP-Drums Stereo</Name>
+        <RegKey>Waves-JJP-Drums Stereo</RegKey>
+        <BinName>JJP-Drums</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x475765e</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>JJP-Drums</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

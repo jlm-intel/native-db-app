@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>99570759-258f-4b26-beec-ff6ed5c2783a</UPID>
+        <Name>GW VoiceCentric Stereo</Name>
+        <RegKey>Waves-GW VoiceCentric Stereo</RegKey>
+        <BinName>GW VoiceCentric</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x53cbd3b</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>GW VoiceCentric</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

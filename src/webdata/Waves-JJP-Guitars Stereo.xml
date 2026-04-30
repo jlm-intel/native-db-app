@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>c81ef6cc-f012-4f26-a637-0c364fac5d32</UPID>
+        <Name>JJP-Guitars Stereo</Name>
+        <RegKey>Waves-JJP-Guitars Stereo</RegKey>
+        <BinName>JJP-Guitars</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x475778a</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>JJP-Guitars</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

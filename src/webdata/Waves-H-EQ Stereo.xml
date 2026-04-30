@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>4f1c010c-17b9-45ac-9591-218847757ae2</UPID>
+        <Name>H-EQ Stereo</Name>
+        <RegKey>Waves-H-EQ Stereo</RegKey>
+        <BinName>H-EQ</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4554947</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>H-EQ</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

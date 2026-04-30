@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>f93be045-e265-46b9-bcac-5e82b2fa6040</UPID>
+    <Name>Neon Drive</Name>
+    <Type>Content</Type>
+    <RegKey>Neon Drive</RegKey>
+    <SNPID>577</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.9.2" nativeContent="true">Reaktor</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

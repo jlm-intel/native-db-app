@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>90ad667d-f783-4d99-8552-830d9d241cb1</UPID>
+        <Name>OneKnob Brighter Stereo</Name>
+        <RegKey>Waves-OneKnob Brighter Stereo</RegKey>
+        <BinName>OneKnob Brighter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4c0fd8b</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>OneKnob Brighter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints version="1.0.0.0">
+  <Product version="10">
+    <UPID>120fe98a-6b53-4666-be5c-96db54ba6b08</UPID>
+    <Name>Virtual Guitarist SPARKLE 2</Name>
+    <RegKey>VG-SPARKLE2</RegKey>
+    <BinName>VG-SPARKLE2</BinName>
+    <AuthAppID>500</AuthAppID>
+    <PluginID fx="false">0x56475350</PluginID>
+    <Company>UJAM</Company>
+    <FactoryLibrary>
+      <Name>Virtual Guitarist SPARKLE 2</Name>
+      <Relevance>
+        <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+        <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      </Relevance>
+    </FactoryLibrary>
+    <Type>Plugin</Type>
+    <AuthSystem>None</AuthSystem>
+  </Product>
+</ProductHints>

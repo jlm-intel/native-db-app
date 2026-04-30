@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>ca4d20aa-2718-4597-bb0f-4955d9b77e27</UPID>
+    <Name>Faded Reels</Name>
+    <Type>Content</Type>
+    <RegKey>Faded Reels</RegKey>
+    <SNPID>X28</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Massive</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4.1" nativeContent="true">Battery</Application>
+      <Application minVersion="6.2" nativeContent="true">Reaktor</Application>
+      <Application minVersion="2.5" nativeContent="true">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

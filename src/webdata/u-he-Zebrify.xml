@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="2">
+		<UPID>9033398e-5e1a-4c14-9c1f-453ade49df90</UPID>
+		<Name>Zebrify</Name>
+		<RegKey>u-he-Zebrify</RegKey>
+		<BinName>Zebrify</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="true">0x534D5932</PluginID>
+		<Company>u-he</Company>
+		<FactoryLibrary>
+			<Name>Zebrify Factory</Name>
+			<!-- We won't touch the properties below, promised! -->
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

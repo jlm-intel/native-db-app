@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="2">
+		<UPID>5f8975f8-054c-4c99-b881-e2c31bc5743f</UPID>
+		<Name>Diva</Name>
+		<RegKey>u-he-Diva</RegKey>
+		<BinName>Diva</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x44695661</PluginID>
+		<Company>u-he</Company>
+		<FactoryLibrary>
+			<Name>Diva Factory</Name>
+			<!-- We won't touch the properties below, promised! -->
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

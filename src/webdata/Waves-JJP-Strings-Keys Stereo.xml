@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>1d0d7270-1aed-4975-a5c8-cd3d5004fe97</UPID>
+        <Name>JJP-Strings-Keys Stereo</Name>
+        <RegKey>Waves-JJP-Strings-Keys Stereo</RegKey>
+        <BinName>JJP-Strings-Keys</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4757c3a</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>JJP-Strings-Keys</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

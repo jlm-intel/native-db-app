@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>167c3337-dccb-4c52-8b84-a1f6b0d4b51e</UPID>
+    <Name>Drive</Name>
+    <Type>Content</Type>
+    <RegKey>Drive</RegKey>
+    <SNPID>MX6</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="1.3" nativeContent="true">MassiveX</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

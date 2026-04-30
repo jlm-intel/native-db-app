@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>6840ee59-1a8f-4b80-8c86-51e92fe1a50c</UPID>
+        <Name>MannyM-EQ Stereo</Name>
+        <RegKey>Waves-MannyM-EQ Stereo</RegKey>
+        <BinName>MannyM EQ</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MannyM-EQ</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

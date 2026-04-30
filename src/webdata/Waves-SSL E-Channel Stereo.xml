@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="4">
+        <UPID>10298f8a-a28f-448f-9e7f-d1522215c1be</UPID>
+        <Name>SSL E-Channel Stereo</Name>
+        <RegKey>Waves-SSL E-Channel Stereo</RegKey>
+        <BinName>SSL E-Channel</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>SSL E-Channel</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>56e78a68-6dd1-494d-9133-bcc76b1206ed</UPID>
+        <Name>MannyM-ToneShaper Stereo</Name>
+        <RegKey>Waves-MannyM-ToneShaper Stereo</RegKey>
+        <BinName>MannyM-ToneShaper</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4a2c788</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MannyM-ToneShaper</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

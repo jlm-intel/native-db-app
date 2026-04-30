@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="2">
+		<UPID>9e7f7771-68c0-4067-9fcf-10ec4aa6993c</UPID>
+		<Name>Zebra2</Name>
+		<RegKey>u-he-Zebra2</RegKey>
+		<BinName>Zebra2</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x534D4432</PluginID>
+		<Company>u-he</Company>
+		<FactoryLibrary>
+			<Name>Zebra2 Factory</Name>
+			<!-- We won't touch the properties below, promised! -->
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

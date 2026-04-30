@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>8be2e9ba-b200-47a2-80b3-24e43f54f750</UPID>
+        <Name>InPhase LT Live Stereo</Name>
+        <RegKey>Waves-InPhase LT Live Stereo</RegKey>
+        <BinName>InPhase LT Live</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4cfca9b</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>InPhase LT Live</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>d39d914b-148e-4312-b2f5-063093926392</UPID>
+        <Name>SSLComp Stereo</Name>
+        <RegKey>Waves-SSLComp Stereo</RegKey>
+        <BinName>SSLComp</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>SSLComp</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

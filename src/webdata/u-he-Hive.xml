@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="2">
+		<UPID>9848C2AB-07CA-4947-9101-0A4CC51C9D74</UPID>
+		<Name>Hive</Name>
+		<RegKey>u-he-Hive</RegKey>
+		<BinName>Hive</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x44695661</PluginID>
+		<Company>u-he</Company>
+		<FactoryLibrary>
+			<Name>Hive Factory</Name>
+			<!-- We won't touch the properties below, promised! -->
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

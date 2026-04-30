@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>9a18b5b0-1a95-44cc-b92f-856616221a58</UPID>
+        <Name>OneKnob Phatter Stereo</Name>
+        <RegKey>Waves-OneKnob Phatter Stereo</RegKey>
+        <BinName>OneKnob Phatter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x484bee3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>OneKnob Phatter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

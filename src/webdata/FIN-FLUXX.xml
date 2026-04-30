@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints version="1.0.0.0">
+  <Product version="10">
+    <UPID>631A5090-0181-11EB-A89B-005056920FF7</UPID>
+    <Name>FIN-FLUXX</Name>
+    <RegKey>FIN-FLUXX</RegKey>
+    <BinName>FIN-FLUXX</BinName>
+    <AuthAppID>500</AuthAppID>
+    <PluginID fx="true">0x4649464c</PluginID>
+    <Company>UJAM</Company>
+    <FactoryLibrary>
+      <Name>FIN-FLUXX</Name>
+      <Relevance>
+        <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+        <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      </Relevance>
+    </FactoryLibrary>
+    <Type>Plugin</Type>
+    <AuthSystem>None</AuthSystem>
+  </Product>
+</ProductHints>

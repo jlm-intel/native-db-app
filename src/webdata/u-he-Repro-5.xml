@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="2">
+		<UPID>57d74b28-34ae-11e7-a919-92ebcb67fe33</UPID>
+		<Name>Repro-5</Name>
+		<RegKey>u-he-Repro-5</RegKey>
+		<BinName>Repro-5</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x75525F35</PluginID>
+		<Company>u-he</Company>
+		<FactoryLibrary>
+			<Name>Repro-5 Factory</Name>
+			<!-- We won't touch the properties below, promised! -->
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>7582ac91-05e4-4bda-9459-a8854401c7bf</UPID>
+        <Name>GEQ Classic Stereo</Name>
+        <RegKey>Waves-GEQ Classic Stereo</RegKey>
+        <BinName>GEQ Classic</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>GEQ Classic</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

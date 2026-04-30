@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>2a4e6c73-19ca-4709-b2a8-e9e811b26655</UPID>
+        <Name>OneKnob Wetter Stereo</Name>
+        <RegKey>Waves-OneKnob Wetter Stereo</RegKey>
+        <BinName>OneKnob Wetter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4c105bf</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>OneKnob Wetter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

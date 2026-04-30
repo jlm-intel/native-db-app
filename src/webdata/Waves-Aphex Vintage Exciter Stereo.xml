@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>f172f1d5-5458-415d-92fe-fe28229a372a</UPID>
+        <Name>Aphex Vintage Exciter Stereo</Name>
+        <RegKey>Waves-Aphex Vintage Exciter Stereo</RegKey>
+        <BinName>Aphex Vintage Exciter</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x3ec23b3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>Aphex Vintage Exciter</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

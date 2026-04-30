@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>c6d0978c-09bb-45c7-ad9b-bea861595b5e</UPID>
+    <Name>Vintage Heat</Name>
+    <Type>Content</Type>
+    <RegKey>Vintage Heat</RegKey>
+    <SNPID>332</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

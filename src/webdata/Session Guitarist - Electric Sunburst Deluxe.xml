@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>c927f034-4844-4225-abf3-32b3f8418f9b</UPID>
+    <Name>Session Guitarist - Electric Sunburst Deluxe</Name>
+    <Type>Content</Type>
+    <RegKey>Session Guitarist - Electric Sunburst Deluxe</RegKey>
+    <SNPID>K14</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="6.2.2" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>3F684A9E5494C0A2C24D5E7587501BEC</HU>
+      <JDX>AA281F9E40111CBD34A26A66AA463BFF4BAB764D9A1CC57E577FBBD8FF65E528</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

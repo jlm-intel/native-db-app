@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>fddbea27-f526-4838-8156-f383f23777d2</UPID>
+        <Name>GEQ Modern Stereo</Name>
+        <RegKey>Waves-GEQ Modern Stereo</RegKey>
+        <BinName>GEQ Modern</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>GEQ Modern</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

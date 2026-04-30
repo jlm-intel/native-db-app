@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>b09d090b-6b14-4019-83d9-31262e2da2ff</UPID>
+        <Name>IMPusher Stereo</Name>
+        <RegKey>Waves-IMPusher Stereo</RegKey>
+        <BinName>IMPusher</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>IMPusher</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

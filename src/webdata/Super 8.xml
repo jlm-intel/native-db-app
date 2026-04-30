@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>f31749cd-9c92-4098-9277-02cf98f5218f</UPID>
+    <Name>Super 8</Name>
+    <Type>Content</Type>
+    <RegKey>Super 8</RegKey>
+    <SNPID>RS8</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="6.2.2" nativeContent="false">Reaktor</Application>
+      <Application minVersion="2.0" nativeContent="true">KKontrol</Application>
+      <Application minVersion="2.7" nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

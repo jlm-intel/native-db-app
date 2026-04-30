@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>b6668dfe-ccfa-43a1-b3fa-dd8bf0dbbcfd</UPID>
+    <Name>Monark</Name>
+    <Type>Content</Type>
+    <RegKey>Monark</RegKey>
+    <SNPID>456</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

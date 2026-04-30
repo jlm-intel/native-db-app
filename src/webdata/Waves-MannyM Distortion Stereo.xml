@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="1">
+        <UPID>2ea04132-ebde-4008-b526-fbd9610781cd</UPID>
+        <Name>MannyM Distortion Stereo</Name>
+        <RegKey>Waves-MannyM Distortion Stereo</RegKey>
+        <BinName>MannyM Distortion</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x4a2ce33</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MannyM Distortion</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

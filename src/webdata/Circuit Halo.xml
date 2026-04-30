@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>5cdff194-b71e-4799-880f-bf8d6708e376</UPID>
+    <Name>Circuit Halo</Name>
+    <Type>Content</Type>
+    <RegKey>Circuit Halo</RegKey>
+    <SNPID>495</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Massive</Application>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application minVersion="5.9" nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<ProductHints>
+    <Product version="2">
+        <UPID>57e01699-7bff-466f-9b81-5ec611f849bc</UPID>
+        <Name>MannyM-Delay Stereo</Name>
+        <RegKey>Waves-MannyM-Delay Stereo</RegKey>
+        <BinName>MannyM-Delay</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="true">0x50E86C3</PluginID>
+        <Company>Waves</Company>
+        <FactoryLibrary>
+            <Name>MannyM-Delay</Name>
+            
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>
