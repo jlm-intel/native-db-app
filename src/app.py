@@ -242,8 +242,11 @@ def populate_lists():
 
 
 def is_cloud():
-    # This environment variable only exists on Streamlit Community Cloud
-    return os.environ.get("STREAMLIT_RUNTIME_ENV") is not None
+    # This environment variable allegedly only exists on Streamlit Community Cloud
+    # return os.environ.get("STREAMLIT_RUNTIME_ENV") is not None
+    # The above method does not currently work and I don't know why. I do know that when running on the cloud the working directory is "/mount/src/native-db-app",
+    # so I can check for that as a backup method of determining if we're running on the cloud or locally.
+    return os.environ.get("STREAMLIT_RUNTIME_ENV") is not None or os.getcwd().endswith("src/native-db-app")
 
 
 def main():
@@ -281,13 +284,6 @@ def main():
                 else:
                     st.error(
                         "The specified path is not a valid directory or is inaccessible.")
-
-    if is_cloud():
-        st.write(f"Running on Streamlit Cloud. CWD: {os.getcwd()}")
-    else:
-        st.write(f"Running locally. CWD: {os.getcwd()}")
-    files = os.listdir(os.getcwd())
-    st.write(f"Files in CWD: {files}")
 
     # always show the display options sidebar, but disable the filter options if no XML files were found
     st.sidebar.header("Display Options")
@@ -341,11 +337,19 @@ def main():
     else:
         st.session_state.log_container = None
 
+    if is_cloud():
+        log_to_ui(f"Running on Streamlit Cloud. CWD: {os.getcwd()}")
+    else:
+        log_to_ui(f"Running locally. CWD: {os.getcwd()}")
+
     with st.sidebar:
         st.header("About this app")
-        st.info("""
-This app uses XML database files of Native Access (the Native Instruments installer) to display information about supported products and their dependencies. There are display options for filtering the results. You must have Native Access installed, or at least have a local directory that contains the NativeAccess.xml file.
-                """)
+        st.info("This app uses XML database files of Native Access (the Native Instruments installer) to display information about supported "
+                "products and their dependencies. There are display options for filtering the results. If you are running this app locally, "
+                "you must have Native Access installed, or at least have a local directory that contains the NativeAccess.xml file. If you "
+                "are running this as a web app, it uses some pre-loaded XML files that I have included in the repository, so no local XML "
+                "files are needed. The app is designed to run on Streamlit Community Cloud, or locally with Python and Streamlit installed."
+                )
 
 
 if __name__ == "__main__":
