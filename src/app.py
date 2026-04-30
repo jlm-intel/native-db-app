@@ -282,9 +282,9 @@ def main():
                         "The specified path is not a valid directory or is inaccessible.")
 
     if is_cloud():
-        st.write("Running on Streamlit Cloud")
+        st.write(f"Running on Streamlit Cloud. CWD: {os.getcwd()}")
     else:
-        st.write("Running locally")
+        st.write(f"Running locally. CWD: {os.getcwd()}")
 
     # always show the display options sidebar, but disable the filter options if no XML files were found
     st.sidebar.header("Display Options")
