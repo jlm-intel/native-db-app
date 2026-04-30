@@ -294,7 +294,7 @@ def main():
         # set up buttons (dependent on finding XML files)
         dependency_filter = ["None"] + st.session_state.app_list
         selected_app = st.sidebar.selectbox(
-            "Filter by dependency:", options=dependency_filter, help="Select an application to filter the product list to only show products that depend on that application.")
+            "Filter by dependency:", options=dependency_filter, help="Select an application to filter the product list to only show products that depend on that application. Select 'None' to show all products regardless of dependencies.")
         if (selected_app != "None") and (selected_app in st.session_state.app_list):
             data_view = find_app_dependencies(
                 st.session_state.file_list, selected_app)
