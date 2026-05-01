@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="10">
+    <UPID>87428fa0-ebcd-4102-9935-64f932b2fdf7</UPID>
+    <Name>Scarbee Jay-Bass</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Jay-Bass</RegKey>
+    <SNPID>415</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>A6147876714F362DB1A053E88D20D4A3</HU>
+      <JDX>E476FFD766239F4283F5F232388184111B9A34539D7D964F8C4C954DDCBE5DE0</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>b9c9ffe3-a34b-4aae-afe1-a8b0ddaa1af2</UPID>
+    <Name>Grand Marimba</Name>
+    <Type>Content</Type>
+    <RegKey>Grand Marimba</RegKey>
+    <SNPID>169</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.0" maxVersion="1.9.9">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <Relevance minVersion="2.0">
+      <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.5" nativeContent="true">Kontakt</Application>
+      <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <ProductSpecific>
+      <Visibility type="Number">3</Visibility>
+      <HU>BB5D72F317F5FBA9F3BF7F0ACBB3B913</HU>
+      <JDX>188EFC9FB2135B0DC78853E8E7BF79A090B42086180C5539FB93ABB7F5BB8F73</JDX>
+    </ProductSpecific>
+    <Company>Soniccouture</Company>
+    <NKSEnabled minVersion="2.0">true</NKSEnabled>
+    <Icon>soniccouture</Icon>
+  </Product>
+</ProductHints>

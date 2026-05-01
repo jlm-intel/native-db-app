@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="10">
+    <UPID>2665347d-14a1-4fbd-896b-961c554adc9a</UPID>
+    <Name>Spark</Name>
+    <InternalName>Reaktor Spark R2</InternalName>
+    <Type>Content</Type>
+    <RegKey>Reaktor Spark R2</RegKey>
+    <SNPID>206</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

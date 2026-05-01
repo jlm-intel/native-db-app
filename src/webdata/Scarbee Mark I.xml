@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>a1dc3f29-9cfa-4931-9430-1d93616f5040</UPID>
+    <Name>Scarbee Mark I</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Mark I</RegKey>
+    <SNPID>421</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.2">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <ProductSpecific>
+      <HU>19278112F24B418B995D395B46410DA3</HU>
+      <JDX>C41102D8C94AB9C21584F2A8F760155ACF52170DCD5458ADFBDCCC757E0B5ABC</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Website>http://www.scarbee.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

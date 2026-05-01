@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>2886d8e3-8677-49d3-9bb5-9b0cc34e590b</UPID>
+    <Name>Elastic Thump</Name>
+    <Type>Content</Type>
+    <RegKey>Elastic Thump</RegKey>
+    <SNPID>012</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="6.1" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>7a8385ae-2c1d-4a8a-88fe-d0287bb83935</UPID>
+    <Name>Halcyon Sky</Name>
+    <Type>Content</Type>
+    <RegKey>Halcyon Sky</RegKey>
+    <SNPID>329</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application minVersion="5.9" nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

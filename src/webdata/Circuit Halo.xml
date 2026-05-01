@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProductHints>
-  <Product version="7">
+  <Product version="6">
     <UPID>5cdff194-b71e-4799-880f-bf8d6708e376</UPID>
     <Name>Circuit Halo</Name>
     <Type>Content</Type>
     <RegKey>Circuit Halo</RegKey>
     <SNPID>495</SNPID>
-    <AuthSystem>RAS3</AuthSystem>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
     <Relevance>
       <Application nativeContent="true">Massive</Application>
       <Application minVersion="2" nativeContent="true">Maschine</Application>

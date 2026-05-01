@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>e961f500-2fef-48c7-971c-28c48e1c68a1</UPID>
+    <Type>Content</Type>
+    <Name>Molekular</Name>
+    <Company>Native Instruments GmbH</Company>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <Icon>reaktor</Icon>
+    <RegKey>Molekular</RegKey>
+    <Relevance>
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <SNPID>248</SNPID>
+  </Product>
+</ProductHints>

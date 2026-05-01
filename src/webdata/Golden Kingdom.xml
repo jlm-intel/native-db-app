@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>dde952dd-f6f4-4728-82f1-6decfe0ee181</UPID>
+    <Name>Golden Kingdom</Name>
+    <Type>Content</Type>
+    <RegKey>Golden Kingdom</RegKey>
+    <SNPID>584</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

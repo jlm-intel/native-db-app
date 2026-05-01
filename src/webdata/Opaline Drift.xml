@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>f88c057c-37c3-4803-b3e6-7fd247111c68</UPID>
+    <Name>Opaline Drift</Name>
+    <Type>Content</Type>
+    <RegKey>Opaline Drift</RegKey>
+    <SNPID>X16</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4.1" nativeContent="true">Battery</Application>
+      <Application minVersion="6.2" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

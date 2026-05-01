@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>f232c127-eca5-44b1-ac1d-926cb1b3b0a1</UPID>
+    <Name>Black Arc</Name>
+    <Type>Content</Type>
+    <RegKey>Black Arc</RegKey>
+    <SNPID>650</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">Massive</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

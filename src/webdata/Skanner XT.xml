@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>6513439a-0e67-4754-994f-657e2438de1e</UPID>
+    <Name>Skanner XT</Name>
+    <Type>Content</Type>
+    <RegKey>Skanner XT</RegKey>
+    <SNPID>151</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.0">
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.0">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

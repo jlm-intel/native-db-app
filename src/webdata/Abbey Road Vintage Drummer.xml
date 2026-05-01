@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>6d078fc5-5048-474e-a323-e7916e70b2f7</UPID>
+    <Name>Abbey Road Vintage Drummer</Name>
+    <Type>Content</Type>
+    <RegKey>Abbey Road Vintage Drummer</RegKey>
+    <SNPID>457</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>9F3C7B7EB25005531436199D5F42AD3D</HU>
+      <JDX>BEA9EC1227EAC7EA675053370A0F85B8F6E69EB9D0014736ECF524E6C832AF68</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

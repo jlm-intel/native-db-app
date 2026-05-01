@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>d7f9ea6b-27cf-4c11-a589-efac543212a8</UPID>
+    <Name>Scarbee Funk Guitarist</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Funk Guitarist</RegKey>
+    <SNPID>431</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>CDDFCC0CE28B437098053E8591B989AF</HU>
+      <JDX>68141C4E8857A7F01D6B2C5B28A2C70DC5F1A650A5981701BE05E59641F6E560</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Website>http://www.scarbee.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

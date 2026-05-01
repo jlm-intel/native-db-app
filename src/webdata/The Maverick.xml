@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>cbb449a1-5808-4675-ba14-3439ad235eab</UPID>
+    <Name>The Maverick</Name>
+    <Type>Content</Type>
+    <RegKey>The Maverick</RegKey>
+    <SNPID>486</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>1EEA99C34E24E1B804316CBAF087BF1B</HU>
+      <JDX>210C6542C3810F9136B959060E958A2794E62C43B8971AE6836D523DFF00262E</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

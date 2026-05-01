@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>3866a73e-aa64-4439-84c7-99eb6fac8c82</UPID>
+    <Name>Symphony Essentials Brass Ensemble</Name>
+    <Type>Content</Type>
+    <RegKey>Symphony Essentials Brass Ensemble</RegKey>
+    <SNPID>668</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>E320C85A0D6395B017194CD81B34DACB</HU>
+      <JDX>23233B1B76FBAE845A288E81813DFC8A9FB1703C3C61BEC0A2B49CBF9A284C46</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

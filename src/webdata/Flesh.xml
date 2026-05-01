@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>6486b4d0-08ba-48e0-83d9-0bc9e4dc443d</UPID>
+    <Name>Flesh</Name>
+    <Type>Content</Type>
+    <RegKey>Flesh</RegKey>
+    <SNPID>599</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="6" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Company>Tim Exile</Company>
+    <Website>http://timexile.com/signup</Website>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

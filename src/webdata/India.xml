@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>9b71b5fd-1c06-412a-9f17-83be07c1ea35</UPID>
+    <Name>India</Name>
+    <Type>Content</Type>
+    <RegKey>India</RegKey>
+    <SNPID>587</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>5154C3472AE4A537DED264782B72E129</HU>
+      <JDX>D51F4D180DD68595E0B58C38B0FF3324B251706DB4CEEC43F21F3E41398EB3F5</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

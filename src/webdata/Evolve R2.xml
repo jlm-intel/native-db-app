@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>b6bd7064-80c2-4d4a-a266-3acf025c47ad</UPID>
+    <Name>Evolve R2</Name>
+    <Type>Content</Type>
+    <RegKey>Evolve R2</RegKey>
+    <SNPID>442</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>F51851E34EED56190250E585C84AF719</HU>
+      <JDX>71F76ED51A8C05FFDDF9BE01FECAF56B82A1CA778436CBEC8518B0D291E03A6D</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Heavyocity</Company>
+    <Website>http://www.heavyocity.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

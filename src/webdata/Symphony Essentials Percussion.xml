@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>1bc3e81d-9a38-431c-964b-93df366af02b</UPID>
+    <Name>Symphony Essentials Percussion</Name>
+    <Type>Content</Type>
+    <RegKey>Symphony Essentials Percussion</RegKey>
+    <SNPID>SE1</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>41632D9FF398D78902DDF13F47CE17F6</HU>
+      <JDX>16153DD46C6DCA0B5FE94D5C06E40D37F37502211BD217CC30A46B74E9FFFA91</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

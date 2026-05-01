@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>d61654f3-8059-43dd-91c3-424cda8fbabc</UPID>
+    <Name>Vintage Organs</Name>
+    <Type>Content</Type>
+    <RegKey>Vintage Organs</RegKey>
+    <SNPID>425</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>A8F436EF71551F5524D323070E5328A9</HU>
+      <JDX>269CDA3222DEB7F319835E766B4632E2AA388F74380401D91877B4DBFE402C40</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

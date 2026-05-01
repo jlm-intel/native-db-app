@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="14">
+    <UPID>e49a740d-6c84-419c-877c-94add64861aa</UPID>
+    <Name>Scarbee Pre-Bass Amped</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Pre-Bass Amped</RegKey>
+    <SNPID>407</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1.0">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1.0">0x07</Visibility>
+    <ProductSpecific>
+      <Visibility type="Number">3</Visibility>
+      <HU>AEF1737E5CB30966E49727EFE1205455</HU>
+      <JDX>59F555092612B213E2944F1784E30068A28F2AAAE5EED492BB0700ED4BAE3BE4</JDX>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

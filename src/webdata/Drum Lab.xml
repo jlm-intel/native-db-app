@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>4a602cbe-9e7e-43e5-957c-50e85acf0b6d</UPID>
+    <Name>Drum Lab</Name>
+    <Type>Content</Type>
+    <RegKey>Drum Lab</RegKey>
+    <SNPID>158</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>C6916D17D899FE9EAC6862E24FCF0076</HU>
+      <JDX>AF75F3DD79A63B3D6A2F775D19D0D5FF28BEC3F2C55C917C80E057E915BB0132</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

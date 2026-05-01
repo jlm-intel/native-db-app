@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="10">
+    <UPID>d8e0fb5c-68ab-4859-b96e-e6f7f01ea35d</UPID>
+    <Name>Scarbee Pre-Bass</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Pre-Bass</RegKey>
+    <SNPID>406</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>2EE9645EDFFFE7C61A37C1EDBB50C630</HU>
+      <JDX>D45509B9F15F07A7B2BC4A0C3271D3BB8A7DB5488CBB6C0FB4096F785BAA097A</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

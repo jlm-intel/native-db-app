@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>a95d6023-4e5c-408f-b642-7d9b9fd9fc31</UPID>
+    <Name>Reaktor Factory Selection R2</Name>
+    <Type>Content</Type>
+    <RegKey>Reaktor Factory Selection R2</RegKey>
+    <SNPID>086</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="6.0.1" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>71F0C62A0CA555039C553B178D6A8BFB</HU>
+      <JDX>985A886E714E0A16F710F1314DB9BF8455F9692E00ED5B8E03BF84DE50227D43</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

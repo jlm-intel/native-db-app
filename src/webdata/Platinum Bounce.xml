@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>b3848a7d-529f-48ff-ad38-ef83c589e075</UPID>
+    <Name>Platinum Bounce</Name>
+    <Type>Content</Type>
+    <RegKey>Platinum Bounce</RegKey>
+    <SNPID>336</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

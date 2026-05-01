@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>f1131a56-9fc2-4ec3-a042-1e3eae7d6661</UPID>
+    <Name>Reaktor Factory Library</Name>
+    <Type>Content</Type>
+    <RegKey>Reaktor Factory Library</RegKey>
+    <SNPID>636</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="6" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <Supersession>
+      <UPID>673e5db8-750e-463a-a865-8b4e39405db2</UPID>
+      <UPID>fe3c02cf-c6f5-4c0d-9aef-b7eff80a68b0</UPID>
+      <UPID>787A145C-07C1-4F75-91C4-C5580380FD56</UPID>
+      <UPID>a95d6023-4e5c-408f-b642-7d9b9fd9fc31</UPID>
+    </Supersession>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

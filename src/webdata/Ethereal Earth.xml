@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>de47beb8-ff89-4ba6-b7ab-059f5260a727</UPID>
+    <Name>Ethereal Earth</Name>
+    <Type>Content</Type>
+    <RegKey>Ethereal Earth</RegKey>
+    <SNPID>KE2</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>71A714468469B372E2E547636FF9FB91</HU>
+      <JDX>64C1A7D5A47828191AB15A0C657EFAE2E53287CF393DECB098CF6CF541B7D092</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

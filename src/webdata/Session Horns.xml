@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>07c2ce64-1477-405c-a6da-eec6d4283afa</UPID>
+    <Name>Session Horns</Name>
+    <Type>Content</Type>
+    <RegKey>Session Horns</RegKey>
+    <SNPID>455</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>560779113639694B7527738F3AE48715</HU>
+      <JDX>7185B80D0F3F5EF506C97831026BFA869D8E2EB49DA8968FD1B0E2AAFEB9DBE4</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>e-Instruments</Company>
+    <Website>http://www.e-instruments.com/newsletter</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

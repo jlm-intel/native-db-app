@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>bdf9dbd9-6c7a-4e44-a76a-fe4174914c24</UPID>
+    <Name>Kinetic Toys</Name>
+    <Type>Content</Type>
+    <RegKey>Kinetic Toys</RegKey>
+    <SNPID>663</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>971E6B52550027957C2CDA5436DA1ED9</HU>
+      <JDX>30484DF1C4493A96E7E1FC221A19AD117A73634E186107259A5403AF50DA5E5D</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

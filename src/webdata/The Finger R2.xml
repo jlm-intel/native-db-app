@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>fb4b8d73-b9b1-46d3-add1-9cda22f83dc1</UPID>
+    <Type>Content</Type>
+    <Name>The Finger</Name>
+    <InternalName>The Finger R2</InternalName>
+    <Company>Tim Exile</Company>
+    <Website>http://www.timexile.com/</Website>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <Icon>reaktor</Icon>
+    <RegKey>The Finger R2</RegKey>
+    <SNPID>205</SNPID>
+  </Product>
+</ProductHints>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="12">
+    <UPID>8f244475-49f2-4548-93a4-f8e24539901d</UPID>
+    <Name>Scarbee MM-Bass</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee MM-Bass</RegKey>
+    <SNPID>413</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.2">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.1.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <ProductSpecific>
+      <HU>B8C21C58B987BAF8A79163EF34DAF62B</HU>
+      <JDX>F52B843BBD740EB260B507CD38F727FA483B3A63680E691EA35EBBA3DD8CDC84</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

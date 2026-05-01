@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="1.5.4">
+		<UPID>a4ad38e5-561a-41f3-9815-4c39ce5959ee</UPID>
+		<Name>Attack</Name>
+		<RegKey>Attack</RegKey>
+		<BinName>Attack</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x33453830</PluginID>
+		<Company>Waldorf</Company>
+		<FactoryLibrary>
+			<Name>Attack</Name>
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>e39d9afa-4457-43a5-bc1e-f6e87426075b</UPID>
+    <Name>Rammfire</Name>
+    <Type>Content</Type>
+    <RegKey>Rammfire</RegKey>
+    <SNPID>518</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>guitar_rig</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>2b0b21bd-ab39-43f4-b7b9-638ea5adc205</UPID>
+    <Name>Maschine 2 Factory Library</Name>
+    <Type>Content</Type>
+    <RegKey>Maschine 2 Factory Library</RegKey>
+    <SNPID>387</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="true">Massive</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

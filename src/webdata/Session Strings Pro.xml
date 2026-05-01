@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>b6b0554d-4782-4dbe-8049-6a976dac7e2b</UPID>
+    <Name>Session Strings Pro</Name>
+    <Type>Content</Type>
+    <RegKey>Session Strings Pro</RegKey>
+    <SNPID>434</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.2.0">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2.0">0x07</Visibility>
+    <ProductSpecific>
+      <HU>AD56FD14D7EB484F12B3C4A9DE01FEC9</HU>
+      <JDX>7F9B018FD4A4094B65E3B6499EE3F415E73C8CA379149BEE70E643E02183A072</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>e-Instruments</Company>
+    <Website>http://www.e-instruments.com/newsletter</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>5a25a85f-3a20-4c0a-8216-685fb64727c1</UPID>
+    <Name>Middle East</Name>
+    <Type>Content</Type>
+    <RegKey>Middle East</RegKey>
+    <SNPID>K01</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>30DBB198C486B4DE40592D882F59CB17</HU>
+      <JDX>43F66A8432F07CE0155BAFDED14B202CB53F8E4A139F62E4FC2CE1494A2C574E</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

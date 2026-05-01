@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>3233cb4b-426f-4c17-bf3a-010cc495a18f</UPID>
+    <Name>True School</Name>
+    <Type>Content</Type>
+    <RegKey>True School</RegKey>
+    <SNPID>333</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

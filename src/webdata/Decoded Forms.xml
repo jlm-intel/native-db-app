@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>aa857fb1-bd33-4e3b-a66a-6c8c451d492a</UPID>
+    <Name>Decoded Forms</Name>
+    <Type>Content</Type>
+    <RegKey>Decoded Forms</RegKey>
+    <SNPID>X04</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="6.1" nativeContent="true">Reaktor</Application>
+      <Application nativeContent="true">Massive</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Massive</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

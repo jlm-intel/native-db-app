@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>0a214a82-c47b-4061-aaad-96133af7ab0b</UPID>
+    <Name>Action Strings</Name>
+    <Type>Content</Type>
+    <RegKey>Action Strings</RegKey>
+    <SNPID>454</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>A741C839FACB13F165E6B866EC85D2D3</HU>
+      <JDX>ACFA7065FF3AA542DEFD758E4FAA8E98E598B0A1FA7E8222C965182C0ADDC2F8</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>709661c3-0f2e-432e-a22c-2ece8af86b68</UPID>
+    <Name>Studio Drummer</Name>
+    <Type>Content</Type>
+    <RegKey>Studio Drummer</RegKey>
+    <SNPID>435</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>4B70D322FE7F6A53D01D9BE2F47C5C45</HU>
+      <JDX>E7977307FF6FC8B62F687CF699EEE2223BD4095BC4E1342BA58B8A686A020F5B</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

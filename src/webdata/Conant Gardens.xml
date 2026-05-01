@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>e610c315-07e8-477d-8aab-857b186dc1ea</UPID>
+    <Name>Conant Gardens</Name>
+    <Type>Content</Type>
+    <RegKey>Conant Gardens</RegKey>
+    <SNPID>340</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">KKontrol</Application>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

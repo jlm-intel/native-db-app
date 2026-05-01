@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>f0ec2a5d-bf70-4deb-8a77-e811fa151f47</UPID>
+    <Name>Alicias Keys</Name>
+    <Type>Content</Type>
+    <RegKey>Alicias Keys</RegKey>
+    <SNPID>417</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.3">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>
+    <ProductSpecific>
+      <HU>559DF8FF96FABF4EF91FAAC91B46D6A4</HU>
+      <JDX>D5EE986A720E8EC4ED453A14469B4ECD763B20840D8266A41A563D634BB971F5</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

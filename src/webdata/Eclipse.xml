@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>de398471-702f-4097-a453-df52201523c5</UPID>
+    <Name>Eclipse</Name>
+    <Type>Content</Type>
+    <RegKey>Eclipse</RegKey>
+    <SNPID>677</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.0.0" maxVersion="1.0.9">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <Relevance minVersion="1.1.0">
+      <Application minVersion="5.5" nativeContent="true">Kontakt</Application>
+      <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <ProductSpecific>
+      <HU>B1EC30492FF0B5D0EBFA8DD2E4AF65DE</HU>
+      <JDX>E69E2E3113CD846FB32C8B3C72AE46CBD3C7F101CA16E1DD41A4571A6CA80ADB</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Wide Blue Sound</Company>
+    <NKSEnabled minVersion="1.1.0">true</NKSEnabled>
+    <Icon>
+      <Data>iVBORw0KGgoAAAANSUhEUgAAAGQAAAAWCAYAAAA2CDmeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG11AABzoAAA8mYAAITvAABufgAA5S4AADMiAAAZGV8b/aUAAAMoSURBVHja7JnNcdswEIU/eHy30oE6MD0sQHQFZjrQTUczFUQdhD7yFLoDuYIwBWgMVRCqA7oC5OCFvYJAmXbGMzlgZzAiQAJYvLd/pIxzjiT/j5wlCBIhSRIhiZAkiZBESJLPECl7Z4AD5s45Yg1YAh1QAIOMFTJPtw2QqS26yDNrAPLGqTaQN/XLrOd+caRw3rjIWEfeVJE1fSuAEhiUDrVaYQa0gY61jANUco4j+OR3DVj1vMdmUNdRnEKcz4SUAdiJ0gAYY2pjzFJtUMqmABdqfAdcqwbwKEp4uQ+eadW9bzLWA7fkTRbZY4poMK6DZmXPGvgC/AZuxci80WTAV8DIbyGghWuPyeWLob3KKZwG4NEYc2B05+q6FQVrY8xMFH4AWunfAFcR5YbAejo5eK08pR+xMADLdtWJd/xUVvVx2a5ie12IHoOAXUt/Ccyl+b03QuKfwLBOyZNg1iki38JpCHA6IKQDfhhj5qLEHrgRMkpg75yzIaMjUotyXpbqYFZCwOuzeTMAC+CB7ar/Z0LypjtYf7vaAHdCeCXGtxZA1gJgaAi9eNJUQqxg2Aq5fACn16TunLNCQqnc1YexcoT1MYkdrpNmRw6yA27Im/UEwN8KIZ1qvcoDV3KOSsYzAW/MCN5rHGuZ0058/mj986C/US5cqNzhw9VUKcWFNUBjQLcqZHUTLTKLhMBBhax1JL9UKvl6r1jLOtWIfsUJvbMTZ7cTcVoGOB2Vva0kJ+8xrZCxl/4UKVQOeY9kE119p5IxUgQsTuQoT8j3EbJbVWXFxn0+WQQklKJLzOorwe3dOJ0HJbA1xuz94aT/9Ea40taaSfK8CyxrGYCh84jOIU/BPH8PFXYqYEPeWPGKBXDPdmVHcsjzvO3qDvgleWGmooBP8j68+VA2qPtWKsVHNf9SVZUxksuAlChOzrkDDzTh53djTCbvGb3q91IaI0k+c851/jpiIX2gSKwys5H3DMt2NQioxUhFNpA3cznwDOgOqqpT85518e8jm0BPX7zMVV4bIsYXmz+X+TZYz5MwitMR/un/kPTpJEkiJBGSJBGSCEnyCfJ3ALYrbc1LWBrKAAAAAElFTkSuQmCC</Data>
+    </Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>39232cc5-01ba-4404-b5aa-00af0c82b92e</UPID>
+    <Name>Reaktor 6</Name>
+    <InternalName>Reaktor 6 Application</InternalName>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Reaktor</Name>
+      <Version>6</Version>
+    </ProductFamily>
+    <RegKey>Reaktor 6</RegKey>
+    <SNPID>637391</SNPID>
+    <AuthSystem maxVersion="6.2.2">RAS2</AuthSystem>
+    <AuthSystem minVersion="6.3.0">RAS3</AuthSystem>
+    <BinName>Reaktor 6</BinName>
+    <PluginID>0x4e695236</PluginID>
+    <PluginID fx="true">0x4e52366a</PluginID>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <Flavour>
+      <Name>Reaktor 6 Player</Name>
+      <SNPID>637</SNPID>
+      <AuthSystem>RAS3</AuthSystem>
+      <Serial>63709-07008-40755-30171-53510</Serial>
+      <Value>-1</Value>
+    </Flavour>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>27cf9287-ad1e-4877-9ca9-43a143069290</UPID>
+    <Name>Session Guitarist - Strummed Acoustic</Name>
+    <Type>Content</Type>
+    <RegKey>Session Guitarist - Strummed Acoustic</RegKey>
+    <SNPID>568</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>0168CFE70314C5EDFB9215ABB9C14BB8</HU>
+      <JDX>C38A9E65415EFC2E2C57526596C4EA83DB8834941EACDD8B4268EA7D512DE8C8</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

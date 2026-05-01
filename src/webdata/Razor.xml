@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>ba9563b5-8e86-430d-a1a4-d82a71118f96</UPID>
+    <Name>Razor</Name>
+    <Type>Content</Type>
+    <RegKey>Razor</RegKey>
+    <SNPID>212</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>0423091f-a635-43db-9ec3-351847e91fda</UPID>
+    <Name>Abbey Road 80s Drummer</Name>
+    <Type>Content</Type>
+    <RegKey>Abbey Road 80s Drummer</RegKey>
+    <SNPID>440</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>E43793366B29D53A0B5CA1BFB8415BFF</HU>
+      <JDX>E9677AF2F900A339C2FEA8793F36672FAB248C153F0D9AF5FD92D1F94BE0A1ED</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

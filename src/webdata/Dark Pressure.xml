@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>02d819ac-f147-41ff-9ce0-62cef041e297</UPID>
+    <Name>Dark Pressure</Name>
+    <Type>Content</Type>
+    <RegKey>Dark Pressure</RegKey>
+    <SNPID>335</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">KKontrol</Application>
+      <Application nativeContent="true">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

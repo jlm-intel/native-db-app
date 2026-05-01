@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>7aea8f0e-b5be-4394-8f23-8d04091890e8</UPID>
+    <Name>West Africa</Name>
+    <Type>Content</Type>
+    <RegKey>West Africa</RegKey>
+    <SNPID>433</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1.0">
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1.0">0x07</Visibility>
+    <ProductSpecific>
+      <HU>002627F6859715AD1DD294DDC4761939</HU>
+      <JDX>DCC5B02B7808DEF9444298CFF0F0B92FC9BC903A3AF386C5933901AE0A7C8870</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

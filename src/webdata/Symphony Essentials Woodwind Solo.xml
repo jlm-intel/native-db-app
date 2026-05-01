@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>368c8da4-7abe-483f-abb6-29930e1bd83b</UPID>
+    <Name>Symphony Essentials Woodwind Solo</Name>
+    <Type>Content</Type>
+    <RegKey>Symphony Essentials Woodwind Solo</RegKey>
+    <SNPID>087</SNPID>
+    <AuthSystem maxVersion="1.2.9">RAS2</AuthSystem>
+    <AuthSystem minVersion="1.3.0">RAS3</AuthSystem>
+    <Relevance minVersion="1.3.0">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <Relevance maxVersion="1.2.9">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>D2142CC477E49958752582765A761E97</HU>
+      <JDX>C7AD97902F50F9F64904207AAB70BCB215E3A50EC7F296F098814C45AF24E1D6</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

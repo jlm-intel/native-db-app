@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>8a9da418-9d34-4063-b97d-4c0f416e088a</UPID>
+    <Name>Electro Acoustic</Name>
+    <Type>Content</Type>
+    <RegKey>Electro Acoustic</RegKey>
+    <SNPID>017</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.0.0" maxVersion="1.4.9">
+      <Application minVersion="5.5" nativeContent="true">Kontakt</Application>
+      <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <Relevance minVersion="1.5.0">
+      <Application minVersion="6.2.0" nativeContent="true">Kontakt</Application>
+      <Application minVersion="2.6.5" nativeContent="false">Maschine</Application>
+      <Application minVersion="1.8.2" nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <ProductSpecific>
+      <HU>E76F2D1FE0824A59E08349C355C78F5A</HU>
+      <JDX>D622D62290EE7A0712F2876F66AA8E0E5DD40E885183E96E98A212C5A1E3441C</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Soniccouture</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>
+      <Data>iVBORw0KGgoAAAANSUhEUgAAAGQAAAAWCAYAAAA2CDmeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgZJREFUeNrsWNFNAkEQBUMBWAF0IFcBp8Zv6cCzAiXwDxRAwAqECpBvo0AFrDbgWYF0gG/ILDk3O3uHicbEeclmPWd2bve9uZnV8na7LSn+Do6UAhVEoYKoIAoVRAVR/AAq3W53jbkh2AcYKca9YN9gnGKMOMb1cDh8sMZOpxNjWnAcQo/9G7xGwvHavNLaWcAn4ngtwW74XR/08Pz0WM4az84v+rx+wHMI5NPEiD1xsmecYBCf1UCcGkYiCsLkEOlTj32cIWXg2GxgSwhtYgYR2hBlnHPASyEmIcX6DQ56w890yHfXCcQY+LSEve/ICySajyiLK4y6894lx8xDwjyQ/8pjp5hvAb53gthMX7rZT8SA4N0Dfu5njZz9PqVHsJ1gbuft3o0pYArylwF7Cnvfk/1x0TKRXY+1TRbky3vx+94BlWfl7ikTR+J7L8iGM2nhGinbDyyBEcdJOOaddgUvvHxbQSLOCHfBKFALpYw3EDHiMtcI9J7/DiNVkIpQdmqer6Wf58OipPC1jT4J7coTc19r0dT3NZ0bp68eE+pcotweUvKUsaBPEXji1L4RpiqV1ErODcPwHAf8jHs46j104wLhL8JtyuTEpPo6Z58k4GP4S+wJN0DDF5PbgM+kIInzwJ5tT4gLfh3Snktl/W+v/mGoUEFUEIUKooIoVBAVRPHL+BRgABKEptAix1lpAAAAAElFTkSuQmCC</Data>
+    </Icon>
+  </Product>
+</ProductHints>

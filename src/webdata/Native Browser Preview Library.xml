@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>b43b661c-8d44-40a5-a6fe-8c1cab8c2089</UPID>
+    <Name>Previews</Name>
+    <Type>Content</Type>
+    <RegKey>Native Browser Preview Library</RegKey>
+    <SNPID>NB1</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2.6.9" nativeContent="true">Maschine</Application>
+      <Application minVersion="1.9.0" nativeContent="true">KKontrol</Application>
+    </Relevance>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+  </Product>
+</ProductHints>

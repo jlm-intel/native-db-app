@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="12">
+    <UPID>77845bfc-d1e1-4d9a-a4e7-012e1a702207</UPID>
+    <Name>Scarbee MM-Bass Amped</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee MM-Bass Amped</RegKey>
+    <SNPID>414</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1.0">
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1.0">0x07</Visibility>
+    <ProductSpecific>
+      <HU>818A15738E09DE8261D4FAF8D91479F9</HU>
+      <JDX>2E44A395BEB335824F3B30144F5DA37256220385BA5C685D5E2EF9D1CACEA566</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

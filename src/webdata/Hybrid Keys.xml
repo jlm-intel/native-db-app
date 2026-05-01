@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>5f68476d-23c0-4b4d-a73c-74a850546f4f</UPID>
+    <Name>Hybrid Keys</Name>
+    <Type>Content</Type>
+    <RegKey>Hybrid Keys</RegKey>
+    <SNPID>KE3</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>FE93B434CCDB678EE48999DE6A928E32</HU>
+      <JDX>5A7713B1C1A27F8179FFB373DAE319AFBAE93324D70E3758F0A800F8D98E43A8</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

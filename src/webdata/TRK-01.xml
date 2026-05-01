@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>5c56fb19-2e15-43c3-acfe-0c218a4289b5</UPID>
+    <Name>TRK-01</Name>
+    <Type>Content</Type>
+    <RegKey>TRK-01</RegKey>
+    <SNPID>TRK</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="6.2.1" nativeContent="true">Reaktor</Application>
+      <Application minVersion="2.6.5" nativeContent="false">Maschine</Application>
+      <Application minVersion="1.8.2" nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>95204c83-1398-4e15-a258-ac388677aa14</UPID>
+    <Name>Session Strings Pro 2</Name>
+    <Type>Content</Type>
+    <RegKey>Session Strings Pro 2</RegKey>
+    <SNPID>K04</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>C792331CFAAA4DFDC07DBAF4170EB638</HU>
+      <JDX>7845DD1B18DDC541B224CDBD9A34FB796A852C131640B96853084FAEAC1B1EC4</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

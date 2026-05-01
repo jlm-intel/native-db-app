@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>904ce876-6b5c-45de-b3f5-79c1ce2793d6</UPID>
+    <Name>Reflektor</Name>
+    <Type>Content</Type>
+    <RegKey>Reflektor</RegKey>
+    <SNPID>520</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>guitar_rig</Icon>
+  </Product>
+</ProductHints>

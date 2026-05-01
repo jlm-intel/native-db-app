@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>1dc1f6cd-b759-4742-ad7e-f6631f803343</UPID>
+    <Name>George Duke Soul Treasures</Name>
+    <Type>Content</Type>
+    <RegKey>George Duke Soul Treasures</RegKey>
+    <SNPID>430</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1.0">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1.0">0x07</Visibility>
+    <ProductSpecific>
+      <HU>23039AE1D2DF89CD2DB68F550327A22C</HU>
+      <JDX>523D95F58BD44AA3582C48DD509078755272597F6CBA004DFB5E5D9E1433BF12</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>45711249-0863-47d4-a951-7df3c09c107f</UPID>
+    <Name>The Gentleman</Name>
+    <Type>Content</Type>
+    <RegKey>The Gentleman</RegKey>
+    <SNPID>488</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>B246D093B6A6395259503816BCCABB29</HU>
+      <JDX>F82C559B0CF0CB77CE0EE9B1B49F099E9702A84B0E5C9A1AEC1B8C1106361A81</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

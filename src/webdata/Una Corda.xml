@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>dd548265-9323-4a49-b4fa-0cf43b2d9647</UPID>
+    <Name>Una Corda</Name>
+    <Type>Content</Type>
+    <RegKey>Una Corda</RegKey>
+    <SNPID>659</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>27B76B2D14866847BF9EA34B3EF7A30F</HU>
+      <JDX>98E786145BB4DF2DF3FA8954C4A23F0C4275F9EA0F349D9601DA673D59076087</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

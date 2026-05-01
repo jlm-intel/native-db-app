@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>ebd03fa6-bb2d-4275-bfb7-778c24d712b2</UPID>
+    <Name>Battery 4 Factory Library</Name>
+    <Type>Content</Type>
+    <RegKey>Battery 4 Factory Library</RegKey>
+    <SNPID>250</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="4" nativeContent="true">Battery</Application>
+      <Application nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Battery</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>battery4</Icon>
+  </Product>
+</ProductHints>

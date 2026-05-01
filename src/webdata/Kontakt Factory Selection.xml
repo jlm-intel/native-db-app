@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>f70b664b-e694-47e8-b8e7-673b7a0094cf</UPID>
+    <Name>Kontakt Factory Selection</Name>
+    <Type>Content</Type>
+    <RegKey>Kontakt Factory Selection</RegKey>
+    <SNPID>401</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.2">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <Relevance maxVersion="1.1.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <ProductSpecific>
+      <HU>DC16D5403A0A137DDB5CB8F775BF4187</HU>
+      <JDX>F89DB54638E01BC4ED6FA4CA3AB0AB976E8618C1D7D2D8D7DB3A8A4444297B76</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

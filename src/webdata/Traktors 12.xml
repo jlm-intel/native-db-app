@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>41c9f7cf-0a44-4459-8291-5ba86ffef5fd</UPID>
+    <Name>Traktors 12</Name>
+    <Type>Content</Type>
+    <RegKey>Traktors 12</RegKey>
+    <SNPID>523</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>guitar_rig</Icon>
+  </Product>
+</ProductHints>

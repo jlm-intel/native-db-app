@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+<Product version="1.08">
+    <UPID>6741e030-72bd-4b68-af5d-194294349315</UPID>
+    <Name>Nave</Name>
+    <RegKey>Nave</RegKey>
+    <BinName>Nave</BinName>
+    <AuthAppID>500</AuthAppID>
+    <PluginID>0x6e617665</PluginID>
+    <Company>Waldorf</Company>
+    <FactoryLibrary>
+      <Name>Nave</Name>
+      <Relevance>
+        <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+        <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+      </Relevance>
+    </FactoryLibrary>
+    <Type>Plugin</Type>
+    <AuthSystem>None</AuthSystem>
+</Product>
+</ProductHints>

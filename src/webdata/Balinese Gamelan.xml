@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>cb8873f8-e516-41a0-89ee-386e116e3e78</UPID>
+    <Name>Balinese Gamelan</Name>
+    <Type>Content</Type>
+    <RegKey>Balinese Gamelan</RegKey>
+    <SNPID>408</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <Relevance maxVersion="1.0.9">
+      <Application minVersion="5.6.8" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>E74A0BBCBBBC2C350113E605D413C02B</HU>
+      <JDX>E007DD2AC7989AE402EBDABEEFF296540852AF9AC4BAEBCDB8733AA902393FDD</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

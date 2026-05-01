@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="9">
+    <UPID>a0781748-0129-4fd4-abf0-b8314d5fbd3a</UPID>
+    <Name>Scarbee Rickenbacker Bass</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Rickenbacker Bass</RegKey>
+    <SNPID>459</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>4DF1A8F031BF9AA9E6BF19B99B1C28EF</HU>
+      <JDX>D3C9639372A728342ECBDAFA6B1B075DACDD54E4589CAB71EF9E62BC398FFD8E</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Vendor>Native Instruments GmbH</Vendor>
+    <Website>http://www.scarbee.com/</Website>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

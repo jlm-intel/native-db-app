@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>a1fc9f8c-6065-426e-8f77-1d99bb41692b</UPID>
+    <Name>Rise and Hit</Name>
+    <Type>Content</Type>
+    <RegKey>Rise And Hit</RegKey>
+    <SNPID>325</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>8C283BA115A21DD5F1DF5C705C065C02</HU>
+      <JDX>11EC688F8F00273401895DC1B3C464C67F957634BD890724247FF9CC5F71E7FD</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

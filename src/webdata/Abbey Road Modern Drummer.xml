@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>3b5cbb5e-e387-4a9e-bd40-0ac2675c747d</UPID>
+    <Name>Abbey Road Modern Drummer</Name>
+    <Type>Content</Type>
+    <RegKey>Abbey Road Modern Drummer</RegKey>
+    <SNPID>441</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>72408F27CCD0A82B171BD7E0C60E8437</HU>
+      <JDX>ABC0D2D8C0469680AA18CB7285F434BBFE24B088EC2EA14A51FE270D45235980</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

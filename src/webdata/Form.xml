@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>87151caa-811c-436b-84b5-c7d0510d4aca</UPID>
+    <Name>Form</Name>
+    <Type>Content</Type>
+    <RegKey>Form</RegKey>
+    <SNPID>085</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Maschine</Application>
+      <Application nativeContent="true">KKontrol</Application>
+      <Application minVersion="6.0.3" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

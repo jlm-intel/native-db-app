@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="10">
+    <UPID>00b224af-b357-4dfe-9929-414bbdf97d6f</UPID>
+    <Name>Absynth 5</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Absynth</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <RegKey>Absynth 5</RegKey>
+    <SNPID>269</SNPID>
+    <AuthSystem maxVersion="5.3.2">RAS2</AuthSystem>
+    <AuthSystem minVersion="5.3.3">RAS3</AuthSystem>
+    <BinName>Absynth 5</BinName>
+    <PluginID>0x436c6d38</PluginID>
+    <PluginID fx="true">0x436c6d36</PluginID>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <FactoryLibrary minVersion="5.1">
+      <Name>Absynth 5 Factory Content</Name>
+      <Relevance>
+        <Application nativeContent="false">KKontrol</Application>
+        <Application nativeContent="false">Maschine</Application>
+      </Relevance>
+    </FactoryLibrary>
+    <Icon>absynth</Icon>
+  </Product>
+</ProductHints>

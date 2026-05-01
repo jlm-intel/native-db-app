@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ This is a template for an NI Product Information file.
+
+ This file should be installed to
+ C:\Program Files\Common Files\Native Instruments\Service Center
+ or
+ [System HD]/Library/Application Support/Native Instruments/Service Center.
+ -->
+
+<ProductHints>
+    <Product version="1">
+        <UPID>589ecf26-cea2-4e63-a5dd-ee6d4dfab9ca</UPID>
+        <Name>DUNE 2</Name>
+        <RegKey>SynapseDune2</RegKey>
+        <BinName>DUNE 2</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="false">0x44554532</PluginID>
+        <Company>Synapse Audio</Company>
+        <FactoryLibrary>
+            <Name>DUNE 2 Factory</Name>
+
+            <!-- Please do not change the properties below this line -->
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

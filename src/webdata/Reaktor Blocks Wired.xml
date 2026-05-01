@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>67583fb0-2d06-4b76-82ed-eaf043968ce3</UPID>
+    <Name>Reaktor Blocks Wired</Name>
+    <Type>Content</Type>
+    <RegKey>Reaktor Blocks Wired</RegKey>
+    <SNPID>671</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="6" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

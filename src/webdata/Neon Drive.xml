@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ProductHints>
-  <Product version="5">
+  <Product version="4">
     <UPID>f93be045-e265-46b9-bcac-5e82b2fa6040</UPID>
     <Name>Neon Drive</Name>
     <Type>Content</Type>
     <RegKey>Neon Drive</RegKey>
     <SNPID>577</SNPID>
-    <AuthSystem>RAS3</AuthSystem>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
     <Relevance>
       <Application minVersion="2" nativeContent="true">Maschine</Application>
       <Application nativeContent="true">Massive</Application>

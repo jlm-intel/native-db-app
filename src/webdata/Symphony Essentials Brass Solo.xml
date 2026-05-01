@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>c7d638f7-afea-4f20-a760-c029a9156ea5</UPID>
+    <Name>Symphony Essentials Brass Solo</Name>
+    <Type>Content</Type>
+    <RegKey>Symphony Essentials Brass Solo</RegKey>
+    <SNPID>669</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>C2B6147D620A84899C47D72EBC6C4F01</HU>
+      <JDX>FB2C81769129BF314EDDDB997E0B8B0EC564E3B97100FC2267CA5D3D8FE043B9</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

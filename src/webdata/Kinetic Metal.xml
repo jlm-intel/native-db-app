@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>9a53fb08-ac38-4757-9eef-f017b9797618</UPID>
+    <Name>Kinetic Metal</Name>
+    <Type>Content</Type>
+    <RegKey>Kinetic Metal</RegKey>
+    <SNPID>229</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>855A85201475910AF9E3781FD6421C57</HU>
+      <JDX>1534CF0C43129786C3795FBEBC3E6DE89AD9CE7BDDDFCB57465D8046E51EA3DA</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

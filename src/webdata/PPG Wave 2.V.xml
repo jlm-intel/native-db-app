@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="1.5.4">
+		<UPID>510ea7ae-14f2-470c-937c-59ca97dda93a</UPID>
+		<Name>PPG Wave 2.V</Name>
+		<RegKey>PPG Wave 2.V</RegKey>
+		<BinName>PPG Wave 2.V</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x33453830</PluginID>
+		<Company>Waldorf</Company>
+		<FactoryLibrary>
+			<Name>PPG Wave 2.V</Name>
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

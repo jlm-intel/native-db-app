@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version='3'>
+		<Name>Komplete 8 Ultimate</Name>
+    <Type>Bundle</Type>
+    <Value>85</Value>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>975</SNPID>
+		<BinName></BinName>
+		<RegKey>Komplete 8 Ultimate</RegKey>
+		<Icon>komplete</Icon>
+		<Members>
+			<Member>26985-81519-39805-80108-79338</Member>   <!--ABSYNTH 5-->
+			<Member>25577-00011-14700-10859-75907</Member>   <!--BATTERY 3-->
+			<Member>27503-83908-97917-07058-51930</Member>   <!--FM8-->
+			<Member>52553-70473-04534-74715-47035</Member>   <!--GUITAR RIG 5-->
+			<Member>32283-11197-44854-41400-37438</Member>   <!--KONTAKT 5 App-->
+			<Member>14055-91477-50880-41538-08895</Member>   <!--MASSIVE-->
+			<Member>31578-99943-13584-98394-57487</Member>   <!--REAKTOR 5-->		
+			
+      <Member>41609-17383-55949-83945-05890</Member>   <!-- Abbey Road 60s Drums -->
+      <Member>42303-91111-07375-85715-95810</Member>   <!-- Abbey Road 70s Drums -->
+      <Member>42883-97195-03339-81731-87918</Member>   <!-- Abbey Road 80s Drums -->
+      <Member>42973-43895-79385-03411-95917</Member>   <!-- Abbey Road Modern Drums -->
+      <Member>41709-95350-70770-09151-91140</Member>   <!-- Alicias Keys -->
+      <Member>40890-54887-59337-33915-80349</Member>   <!-- Balinese Gamelan -->
+      <Member>41075-44957-85330-89591-08887</Member>   <!-- Berlin Concert Grand -->
+      <Member>40579-98091-88583-80011-93487</Member>   <!-- Evolve Mutations -->
+      <Member>41938-93371-00183-87371-47443</Member>   <!-- Evolve Mutations 2 -->
+      <Member>43089-09583-74815-10591-87438</Member>   <!-- George Duke Soul Treasures -->
+      <Member>32499-05830-95514-97400-11079</Member>   <!-- Kontakt Factory lib -->
+      <Member>40217-15933-00049-87111-85441</Member>   <!-- Maschine Drum Selection -->
+      <Member>41108-59885-88834-18755-95840</Member>   <!-- New York Concert Grand -->
+      <Member>51807-89914-87801-99851-05890</Member>   <!-- Rammfire -->
+      <Member>21289-11718-43055-89370-33798</Member>   <!-- Razor -->
+      <Member>20438-98535-11937-34780-13493</Member>   <!-- Reaktor Prism -->
+      <Member>20640-71419-38590-35430-38944</Member>   <!-- Reaktor Spark R2 -->
+      <Member>52053-70333-08088-59581-01055</Member>   <!-- Reflektor -->
+      <Member>43608-89438-79444-14171-07430</Member>   <!-- Retro Maschines mk2 -->
+      <Member>43188-50041-87888-81541-47318</Member>   <!-- Scarbee Funk Guitarist -->
+      <Member>41555-49194-81535-00995-44885</Member>   <!-- Scarbee Jay-Bass -->
+      <Member>41310-80850-00358-89875-48441</Member>   <!-- Scarbee MM-Bass -->
+      <Member>41430-75483-50933-11871-80803</Member>   <!-- Scarbee MM-Bass Amped -->
+      <Member>40637-44895-71575-18381-05803</Member>   <!-- Scarbee Pre-Bass -->
+      <Member>40748-84410-57753-84915-97044</Member>   <!-- Scarbee Pre-Bass Amped -->
+      <Member>42249-54435-05890-04701-01974</Member>   <!-- Scarbee vintage keys -->
+      <Member>43443-75400-78583-01071-83034</Member>   <!-- Session Strings Pro -->
+      <Member>53783-18998-79940-78875-93078</Member>   <!-- Solid Bus Comp -->
+      <Member>53591-85445-75908-40545-98779</Member>   <!-- Solid Dynamics -->
+      <Member>53687-37100-70558-70391-87518</Member>   <!-- Solid EQ -->
+      <Member>53485-57033-84434-55171-09418</Member>   <!-- Solid Mix Series -->
+      <Member>43508-17581-08715-31955-41950</Member>   <!-- Studio Drummer -->
+      <Member>20514-13185-98418-10930-79341</Member>   <!-- The Finger R2 -->
+      <Member>20990-33373-95305-07934-78999</Member>   <!-- The Mouth -->
+      <Member>52395-78975-08891-57731-44159</Member>   <!-- Traktors 12 -->
+      <Member>53055-03440-77304-50971-80755</Member>   <!-- Transient Master -->
+      <Member>40938-97077-74083-15015-45443</Member>   <!-- Upright Piano -->
+      <Member>52978-73013-09089-45415-91917</Member>   <!-- VC 160 -->
+      <Member>52894-87981-77110-93731-00019</Member>   <!-- VC 2A -->
+      <Member>52793-70710-01598-97331-97559</Member>   <!-- VC 76 -->
+      <Member>41213-53173-55097-05191-81441</Member>   <!-- Vienna Concert Grand -->
+      <Member>42550-83401-03919-30111-49535</Member>   <!-- Vintage Organs -->
+      <Member>43318-39188-71058-31371-41711</Member>   <!-- West Africa -->			
+		</Members>	  
+	</Product>
+	
+  
+  <Product version='3'>
+		<Name>Komplete 8</Name>
+    <Type>Bundle</Type>
+    <Value>80</Value>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>974</SNPID>
+		<BinName></BinName>
+		<RegKey>Komplete 8</RegKey>
+		<Icon>komplete</Icon>
+		<Members>
+			<Member>26985-81519-39805-80108-79338</Member>   <!--ABSYNTH 5-->
+			<Member>25577-00011-14700-10859-75907</Member>   <!--BATTERY 3-->
+			<Member>27503-83908-97917-07058-51930</Member>   <!--FM8-->
+			<Member>52553-70473-04534-74715-47035</Member>   <!--GUITAR RIG 5-->
+			<Member>32283-11197-44854-41400-37438</Member>   <!--KONTAKT 5 App-->
+			<Member>14055-91477-50880-41538-08895</Member>   <!--MASSIVE-->
+			<Member>31578-99943-13584-98394-57487</Member>   <!--REAKTOR 5-->		
+			
+      <Member>41609-17383-55949-83945-05890</Member>   <!-- Abbey Road 60s Drums -->
+      <Member>41075-44957-85330-89591-08887</Member>   <!-- Berlin Concert Grand -->
+      <Member>32499-05830-95514-97400-11079</Member>   <!-- Kontakt Factory lib -->
+      <Member>41108-59885-88834-18755-95840</Member>   <!-- New York Concert Grand -->
+      <Member>51807-89914-87801-99851-05890</Member>   <!-- Rammfire -->
+      <Member>20438-98535-11937-34780-13493</Member>   <!-- Reaktor Prism -->
+      <Member>20640-71419-38590-35430-38944</Member>   <!-- Reaktor Spark R2 -->
+      <Member>52053-70333-08088-59581-01055</Member>   <!-- Reflektor -->
+      <Member>43608-89438-79444-14171-07430</Member>   <!-- Retro Maschines mk2 -->
+      <Member>41310-80850-00358-89875-48441</Member>   <!-- Scarbee MM-Bass -->
+      <Member>42249-54435-05890-04701-01974</Member>   <!-- Scarbee vintage keys -->
+      <Member>43508-17581-08715-31955-41950</Member>   <!-- Studio Drummer -->
+      <Member>20514-13185-98418-10930-79341</Member>   <!-- The Finger R2 -->
+      <Member>52395-78975-08891-57731-44159</Member>   <!-- Traktors 12 -->
+      <Member>53055-03440-77304-50971-80755</Member>   <!-- Transient Master -->
+      <Member>40938-97077-74083-15015-45443</Member>   <!-- Upright Piano -->
+      <Member>41213-53173-55097-05191-81441</Member>   <!-- Vienna Concert Grand -->
+      <Member>42550-83401-03919-30111-49535</Member>   <!-- Vintage Organs -->
+      <Member>43318-39188-71058-31371-41711</Member>   <!-- West Africa -->			
+		</Members>	  
+	</Product>
+  
+  
+  
+  <Product version='2'>
+    <Name>Absynth 5</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Absynth</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>269</SNPID>
+    <ScanMode>System</ScanMode>
+    <BinName>Absynth 5</BinName>
+    <RegKey>Absynth 5</RegKey>
+    <FactoryLibrary minVersion='5.1'>Absynth 5 Factory Content</FactoryLibrary>
+    <Icon>absynth</Icon>
+  </Product>
+
+  <Product version='2'>
+    <Name>Battery 3</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Battery</Name>
+      <Version>3</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>255</SNPID>
+    <BinName>Battery 3</BinName>
+    <BinName target="DXi">Battery 3 DXi</BinName>
+    <RegKey>Battery 3</RegKey>
+    <Icon>battery</Icon>
+  </Product>
+
+  <Product version='2'>
+    <Name>FM8</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>FM8</Name>
+      <Version>1</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>275</SNPID>
+    <ScanMode>System</ScanMode>
+    <BinName>FM8</BinName>
+    <BinName target="DXi">FM8DXi</BinName>
+    <RegKey>FM8</RegKey>
+    <FactoryLibrary minVersion='1.2'>FM8 Factory Content</FactoryLibrary>
+    <Icon>fm8</Icon>
+  </Product>
+
+  <Product version='2'>
+    <Name>Guitar Rig 5</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>GuitarRig</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>525531532533</SNPID>
+    <BinName>Guitar Rig 5</BinName>
+    <RegKey>Guitar Rig 5</RegKey>
+    <Flavour>
+      <FlavourValue>0</FlavourValue>
+      <SNPID>525</SNPID>			
+      <Name>Guitar Rig 5 Pro</Name>
+    </Flavour>
+    <Flavour>
+      <SNPID>531</SNPID>			
+      <Name>Guitar Rig 5 Factory Selection</Name>
+    </Flavour>   
+    <Flavour>
+      <SNPID>532</SNPID>			
+      <Name>Guitar Rig 5 Elements Selection</Name>
+    </Flavour> 
+    <Flavour>
+      <SNPID>533</SNPID>			
+      <Name>Guitar Rig 5 LE</Name>
+    </Flavour>
+    <Icon>guitar_rig</Icon>
+  </Product>
+
+  <Product>
+    <Name>Kontakt 5</Name>
+    <InternalName>Kontakt 5 Bundle</InternalName>
+    <Type>Bundle</Type>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>321</SNPID>
+    <BinName></BinName>
+    <RegKey>Kontakt 5 Bundle</RegKey>
+    <Icon>kontakt</Icon>
+    <Members>
+      <Member>32211-15139-43145-54480-39111</Member>	<!-- Kontakt Application -->
+      <Member>32454-85177-95508-55000-34455</Member>	<!-- Kontakt Factory Library -->
+    </Members>
+  </Product>
+
+  <Product version='1'>
+    <Name>Kontakt 5</Name>
+    <InternalName>Kontakt 5 Application</InternalName>
+    <ShopLink>kontaktpricing</ShopLink>
+    <Type>App</Type>
+    <HostMode>Engine</HostMode>
+    <ProductFamily>
+      <Name>Kontakt</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>322323</SNPID>
+    <BinName>Kontakt 5</BinName>
+    <RegKey>Kontakt 5</RegKey>
+    <Flavour>
+      <Name>Kontakt Player 5</Name>
+      <AuthSystem>NONE</AuthSystem>
+      <Serial>32393-90310-95194-49904-71939</Serial>
+    </Flavour>
+    <Icon>kontakt</Icon>
+  </Product>
+    
+  <Product version="1">
+    <Name>Kontakt Factory Library</Name>
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <Visibility>7</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>324</SNPID>
+    <RegKey>Kontakt Factory Library</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>C3CCA2803ABC14A68EAACC38EAA7E8EC</HU>
+      <JDX>E338FA9D6B8D760002CAF80B683FE5A5BD1CF9A644292E3166B8DF44FAD92D8D</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+
+  <Product version='2'>
+    <Name>Massive</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Massive</Name>
+      <Version>1</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>140</SNPID>
+    <ScanMode>System</ScanMode>
+    <BinName>Massive</BinName>
+    <BinName target="DXi">MassiveDXi</BinName>
+    <RegKey>Massive</RegKey>
+    <FactoryLibrary minVersion='1.3'>Massive Factory Content</FactoryLibrary>
+    <Icon>massive</Icon>
+  </Product>
+
+  <Product version="7">
+    <Name>Reaktor 5</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Reaktor</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS1_5</AuthSystem> 
+    <AuthSystem minVersion="5.1.5.0">RAS2</AuthSystem> 
+    <SNPID>315316317319</SNPID>
+    <ScanMode>System</ScanMode>
+    <BinName>Reaktor5</BinName> 
+    <BinName target="DXi">Reaktor5DXi</BinName> 
+    <BinName target="Standalone" platform="Mac">Reaktor 5</BinName> 
+    <RegKey>Reaktor 5</RegKey> 
+    <RegKey platform="Mac">Reaktor5</RegKey> 
+    <FactoryLibrary minVersion='5.6.1'>Reaktor 5 Factory Content</FactoryLibrary>
+    <Icon>reaktor</Icon> 
+    <Flavour>
+      <Name>Reaktor 5 Player</Name>
+      <AuthSystem>NONE</AuthSystem>
+      <Serial>31989-08701-97803-43590-53548</Serial>
+    </Flavour>
+  </Product>
+
+
+  <Product version='3'> 
+    <Name>Abbey Road 60s Drums</Name>
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.2.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>416</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Abbey Road 60s Drums</RegKey> 
+    <ProductSpecific>
+      <HU>AE321AB9C8FFA09EF13DFD848AD83ADE</HU>
+      <JDX>53FC95BA6D2010DA9C258DF7C568CC6441EF88813D42F931607C9D8EAFA138DB</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+ 
+  <Product version='3'> 
+    <Name>Abbey Road 70s Drums</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>423</SNPID> 
+    <Icon>koresound</Icon> 
+    <RegKey>Abbey Road 70s Drums</RegKey> 
+    <ProductSpecific>
+      <HU>DFA9ECB06D09F07DBF2E706DDA59BA68</HU>
+      <JDX>E52E9EDC252E9642412BE7BADD8B6B81D213E61B220798973192131432674B84</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+ 
+  <Product version="2"> 
+    <Name>Abbey Road 80s Drums</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>428</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Abbey Road 80s Drums</RegKey> 
+    <ProductSpecific>
+      <HU>48231DFE9FDA0270201654A931F1D725</HU>
+      <JDX>8D101EA5B09CDA8AEF5788266E209BEB679D2B5FD7244B1F78DC9724F01F0C46</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version="2"> 
+    <Name>Abbey Road Modern Drums</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>429</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Abbey Road Modern Drums</RegKey> 
+    <ProductSpecific>
+      <HU>89E49C4D219B396D1BE307579FCF16EB</HU>
+      <JDX>5382CF8BE0F377E22C5A9D9DB7CB5789E6A4DC114BBFE80E27EC62E12D9E3DC0</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+ 
+  <Product version='1'> 
+    <Name>Alicias Keys</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>417</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Alicias Keys</RegKey> 
+    <ProductSpecific>
+      <HU>559DF8FF96FABF4EF91FAAC91B46D6A4</HU>
+      <JDX>D5EE986A720E8EC4ED453A14469B4ECD763B20840D8266A41A563D634BB971F5</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+ 
+  <Product version='1'> 
+    <Name>Balinese Gamelan</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>408</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Balinese Gamelan</RegKey>
+    <ProductSpecific>
+	    <HU>E74A0BBCBBBC2C350113E605D413C02B</HU>
+      <JDX>E007DD2AC7989AE402EBDABEEFF296540852AF9AC4BAEBCDB8733AA902393FDD</JDX>		
+      <Visibility type='Number'>3</Visibility>
+	  </ProductSpecific>      
+  </Product> 
+  
+  	
+  <Product version='3'> 
+    <Name>Berlin Concert Grand</Name>
+	  <Type>Content</Type>	  
+	  <PoweredBy>Kontakt</PoweredBy>	  
+    <Visibility minVersion="1.3">0x07</Visibility>    
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>410</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Berlin Concert Grand</RegKey> 
+    <ProductSpecific>
+      <HU>30C1428FE80C44269303BCE134E60093</HU>
+      <JDX>48752FB3C2B6A4E6AE9D26FDD32EB6C265175CEFC29376395F8E4F8D010AF39A</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+  
+  <Product version="2"> 
+    <Name>Evolve Mutations</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.1.0'>0x07</Visibility>
+    <Website>http://www.heavyocity.com/mailinglist</Website>
+    <Company>Heavyocity</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>405</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Evolve Mutations</RegKey> 
+    <ProductSpecific>
+      <HU>7946A468F57475285D84B075B8EE3CB0</HU>
+      <JDX>37B07BA10BEED3A42287AD6FFB9113F19699AD447B99E639FD244A38C0E43247</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+ 
+  <Product version='1'> 
+    <Name>Evolve Mutations 2</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Website>http://www.heavyocity.com/mailinglist</Website>
+    <Company>Heavyocity</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>419</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Evolve Mutations 2</RegKey> 
+    <ProductSpecific>
+      <HU>BBB297775F813B9718494B7691DAE111</HU>
+      <JDX>AC91E7C5BD8F95007B400084DE8B0312AFE6C9779A1C866B844D64B81F36C19F</JDX>	
+      <Visibility type='Number'>3</Visibility>        
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='2'> 
+    <Name>George Duke Soul Treasures</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.1.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>430</SNPID> 
+    <Icon>koresound</Icon> 
+    <RegKey>George Duke Soul Treasures</RegKey> 
+    <ProductSpecific>
+      <HU>23039AE1D2DF89CD2DB68F550327A22C</HU>
+      <JDX>523D95F58BD44AA3582C48DD509078755272597F6CBA004DFB5E5D9E1433BF12</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+        
+  <Product version="2"> 
+    <Name>Maschine Drum Selection</Name> 
+    <Type>Content</Type>
+    <Company>Native Instruments GmbH</Company> 
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>402</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Maschine Drum Selection</RegKey> 
+    <ProductSpecific>
+      <HU>9DC30EAA5022CE164AB8BF61485D2F37</HU>
+      <JDX>CADCE3C7251A8034566254EDC19A831E375E056B1A99EE27C152F2C71DC92896</JDX>	
+      <Visibility type='Number'>3</Visibility>        
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='3'> 
+    <Name>New York Concert Grand</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>    
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>411</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>New York Concert Grand</RegKey> 
+    <ProductSpecific>
+      <HU>7B4873B168DBEFDB4F40B2FAF773D988</HU>
+      <JDX>DA0A9514E47BCFFDA40FDDB41C080928156074C9CCB0668EE951E33DB0C17FE7</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version="2">
+    <Name>Rammfire</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>518</SNPID>
+    <RegKey>Rammfire</RegKey>
+    <Icon>guitar_rig</Icon>
+  </Product>
+  
+  <Product version='2'>
+		<Name>Razor</Name>
+		<Type>Content</Type>
+		<PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion='1.1.1'>0x07</Visibility>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>212</SNPID>
+		<RegKey>Razor</RegKey>
+		<Icon>reaktor</Icon>
+	</Product>
+  
+  <Product version='3'>
+		<Name>Reaktor Prism</Name>
+		<Type>Content</Type>
+		<PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion='1.1.1'>0x07</Visibility>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>204</SNPID>
+		<RegKey>Reaktor Prism</RegKey>
+		<Icon>reaktor</Icon>
+	</Product>
+  
+  <Product version="3">
+		<Name>Reaktor Spark R2</Name>
+		<Type>Content</Type>
+		<PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion='1.1.1'>0x07</Visibility>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>206</SNPID>		
+		<RegKey>Reaktor Spark R2</RegKey>
+		<Icon>reaktor</Icon>
+	</Product>
+  
+  <Product version="2">
+    <Name>Reflektor</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>520</SNPID>  
+    <RegKey>Reflektor</RegKey>
+    <Icon>guitar_rig</Icon>
+  </Product>
+  
+  <Product version='1'>
+    <Name>Retro Machines Mk2</Name>
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <Visibility>7</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>436</SNPID>
+    <RegKey>Retro Machines Mk2</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>FE7848570169E353A93322ABFF2D5184</HU>
+      <JDX>C2994736062FF486C0B43319C02D54CE8BB231A74D060E38260504BA9DF837F1</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+  
+  <Product version='2'> 
+    <Name>Scarbee A-200</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>420</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee A-200</RegKey> 
+    <ProductSpecific>
+      <HU>D57BF33D7FCD545BA12F1794B10D8D44</HU>
+      <JDX>FC19E60352DC8B8B90E17EEEFB294CCFB814662BE025D53CD706299DD9CCB2B0</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+  
+  <Product version='2'> 
+    <Name>Scarbee Clavinet Pianet</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>418</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Clavinet Pianet</RegKey> 
+    <ProductSpecific>
+      <HU>95BAB2C5078048886C84E7EFB0907D3B</HU>
+      <JDX>37601C6E55BA2E1508ECFACDD1FFB50533FE8D4072A98F6C9B6DC86FC494AA04</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+  
+  <Product version='1'> 
+    <Name>Scarbee Funk Guitarist</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>431</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Funk Guitarist</RegKey> 
+    <ProductSpecific>
+      <HU>CDDFCC0CE28B437098053E8591B989AF</HU>
+      <JDX>68141C4E8857A7F01D6B2C5B28A2C70DC5F1A650A5981701BE05E59641F6E560</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='1'> 
+    <Name>Scarbee Jay-Bass</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>415</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Jay-Bass</RegKey> 
+    <ProductSpecific>
+      <HU>A6147876714F362DB1A053E88D20D4A3</HU>
+      <JDX>E476FFD766239F4283F5F232388184111B9A34539D7D964F8C4C954DDCBE5DE0</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='2'> 
+    <Name>Scarbee Mark I</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>421</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Mark I</RegKey> 
+    <ProductSpecific>
+      <HU>19278112F24B418B995D395B46410DA3</HU>
+      <JDX>C41102D8C94AB9C21584F2A8F760155ACF52170DCD5458ADFBDCCC757E0B5ABC</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product>
+  
+  <Product version='3'> 
+    <Name>Scarbee MM-Bass</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>413</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee MM-Bass</RegKey> 
+    <ProductSpecific>
+      <HU>B8C21C58B987BAF8A79163EF34DAF62B</HU>
+      <JDX>F52B843BBD740EB260B507CD38F727FA483B3A63680E691EA35EBBA3DD8CDC84</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+  
+  <Product version='2'> 
+    <Name>Scarbee MM-Bass Amped</Name>       
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.1.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>414</SNPID> 
+    <Icon>koresound</Icon> 
+    <RegKey>Scarbee MM-Bass Amped</RegKey> 
+    <ProductSpecific>
+      <HU>818A15738E09DE8261D4FAF8D91479F9</HU>
+      <JDX>2E44A395BEB335824F3B30144F5DA37256220385BA5C685D5E2EF9D1CACEA566</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='1'> 
+    <Name>Scarbee Pre-Bass</Name> 
+    <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>406</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Pre-Bass</RegKey> 
+    <ProductSpecific>
+      <HU>2EE9645EDFFFE7C61A37C1EDBB50C630</HU>
+      <JDX>D45509B9F15F07A7B2BC4A0C3271D3BB8A7DB5488CBB6C0FB4096F785BAA097A</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product>
+  
+  <Product version='3'> 
+    <Name>Scarbee Pre-Bass Amped</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.1.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>407</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Scarbee Pre-Bass Amped</RegKey> 
+    <ProductSpecific>
+      <HU>AEF1737E5CB30966E49727EFE1205455</HU>
+      <JDX>59F555092612B213E2944F1784E30068A28F2AAAE5EED492BB0700ED4BAE3BE4</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product version='2'> 
+    <Name>Session Strings Pro</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.2.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>434</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Session Strings Pro</RegKey> 
+    <ProductSpecific>
+      <HU>AD56FD14D7EB484F12B3C4A9DE01FEC9</HU>
+      <JDX>7F9B018FD4A4094B65E3B6499EE3F415E73C8CA379149BEE70E643E02183A072</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product>
+		<Name>Solid Bus Comp</Name>
+		<Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>537</SNPID>
+		<RegKey>Solid Bus Comp</RegKey>
+		<Icon>guitar_rig</Icon>
+	</Product>
+  
+  <Product>
+		<Name>Solid Dynamics</Name>
+		<Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>535</SNPID>
+		<RegKey>Solid Dynamics</RegKey>
+		<Icon>guitar_rig</Icon>
+	</Product>
+  
+  <Product>
+		<Name>Solid EQ</Name>
+		<Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>536</SNPID>
+		<RegKey>Solid EQ</RegKey>
+		<Icon>guitar_rig</Icon>
+	</Product>
+  
+  <Product version="1">
+    <Name>Studio Drummer</Name>
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <Visibility>7</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>435</SNPID>
+    <RegKey>Studio Drummer</RegKey>
+    <Icon>kontakt</Icon>
+    <ProductSpecific>
+      <HU>4B70D322FE7F6A53D01D9BE2F47C5C45</HU>
+      <JDX>E7977307FF6FC8B62F687CF699EEE2223BD4095BC4E1342BA58B8A686A020F5B</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+  </Product>
+  
+  
+  <Product version='3'>
+		<Name>The Finger R2</Name>
+		<Type>Content</Type>
+		<PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion='1.1.1'>0x07</Visibility>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>205</SNPID>
+		<RegKey>The Finger R2</RegKey>
+		<Icon>reaktor</Icon>
+	</Product>
+  
+  <Product version='2'>
+		<Name>The Mouth</Name>
+    <Type>Content</Type>
+		<PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion='1.1.1'>0x07</Visibility>
+	  <Website>http://www.timexile.com/signup</Website>
+		<Company>Tim Exile</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>209</SNPID>
+		<RegKey>The Mouth</RegKey>
+		<Icon>reaktor</Icon>
+	</Product>
+
+  <Product version="2">
+    <Name>Traktors 12</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>523</SNPID>
+    <RegKey>Traktors 12</RegKey>
+    <Icon>guitar_rig</Icon>
+  </Product>
+  
+  <Product>
+		<Name>Transient Master</Name>
+		<Type>Content</Type>
+		<PoweredBy>GuitarRig</PoweredBy>
+		<Company>Native Instruments GmbH</Company>
+		<AuthSystem>RAS2</AuthSystem>
+		<SNPID>530</SNPID>
+		<RegKey>Transient Master</RegKey>
+		<Icon>guitar_rig</Icon>
+	</Product>
+  
+  <Product version='3'> 
+    <Name>Upright Piano</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>    
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>409</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Upright Piano</RegKey> 
+    <ProductSpecific>
+      <HU>7250B577928C6F3E9C9135B426715E21</HU>
+      <JDX>BC5ADC38B01239CE2453E2D25A254C329A84156A8263F2A49EF0E923391AC0E1</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+   
+  <Product>
+    <Name>VC 76</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>527</SNPID>
+    <Icon>guitar_rig</Icon> 
+    <RegKey>VC 76</RegKey>		
+  </Product>
+  
+  <Product>
+    <Name>VC 2A</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>528</SNPID>
+    <Icon>guitar_rig</Icon> 
+    <RegKey>VC 2A</RegKey>		
+  </Product>
+  
+  <Product>
+    <Name>VC 160</Name>
+    <Type>Content</Type>
+    <PoweredBy>GuitarRig</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>RAS2</AuthSystem>
+    <SNPID>529</SNPID>
+    <Icon>guitar_rig</Icon> 
+    <RegKey>VC 160</RegKey>		
+  </Product>
+ 
+  <Product version='3'> 
+    <Name>Vienna Concert Grand</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.3">0x07</Visibility>    
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>412</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Vienna Concert Grand</RegKey> 
+    <ProductSpecific>
+      <HU>AEFF3FD6390B4F493C2ABBE4063E6F3C</HU>
+      <JDX>76B9DD9B120AB5EBD5E01565DDB325E1A5DA6C1721508B770BB72B55789D3449</JDX>		
+      <Visibility type='Number'>3</Visibility>
+    </ProductSpecific>
+  </Product> 
+  
+  <Product version='3'> 
+    <Name>Vintage Organs</Name> 
+	  <Type>Content</Type>
+	  <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>425</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>Vintage Organs</RegKey> 
+	  <ProductSpecific>
+	    <HU>A8F436EF71551F5524D323070E5328A9</HU>
+      <JDX>269CDA3222DEB7F319835E766B4632E2AA388F74380401D91877B4DBFE402C40</JDX>		
+      <Visibility type='Number'>3</Visibility>
+	  </ProductSpecific>
+  </Product>
+  
+  <Product version='2'> 
+    <Name>West Africa</Name> 
+    <Type>Content</Type>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion='1.1.0'>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company> 
+    <AuthSystem>RAS2</AuthSystem> 
+    <SNPID>433</SNPID> 
+    <Icon>kontakt</Icon> 
+    <RegKey>West Africa</RegKey> 
+    <ProductSpecific>
+      <HU>002627F6859715AD1DD294DDC4761939</HU>
+      <JDX>DCC5B02B7808DEF9444298CFF0F0B92FC9BC903A3AF386C5933901AE0A7C8870</JDX>		
+      <Visibility type='Number'>3</Visibility>  
+    </ProductSpecific>
+  </Product> 
+   
+</ProductHints>

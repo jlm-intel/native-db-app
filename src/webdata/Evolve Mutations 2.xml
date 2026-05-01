@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>cc61c7fa-f45b-4748-8958-567ec187e930</UPID>
+    <Name>Evolve Mutations 2</Name>
+    <Type>Content</Type>
+    <RegKey>Evolve Mutations 2</RegKey>
+    <SNPID>419</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>BBB297775F813B9718494B7691DAE111</HU>
+      <JDX>AC91E7C5BD8F95007B400084DE8B0312AFE6C9779A1C866B844D64B81F36C19F</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Heavyocity</Company>
+    <Website>http://www.heavyocity.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

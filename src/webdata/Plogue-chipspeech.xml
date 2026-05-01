@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+    <Product version="1">
+        <UPID>487db9c1-2427-44e3-998c-2ce5c27e9cec</UPID>
+        <Name>chipspeech</Name>
+        <RegKey>Plogue-chipspeech</RegKey>
+        <BinName>chipspeech</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="false">0x504C4753</PluginID> <!-- 'PLGS' -->
+        <Company>Plogue Art et Technologie, Inc</Company>
+        <FactoryLibrary>
+            <!-- Please do not change the properties below this line -->		
+            <Name>chipspeech Factory</Name>
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

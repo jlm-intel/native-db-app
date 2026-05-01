@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="13">
+    <UPID>5c7426db-e6cb-4074-aba6-22ebf03934a1</UPID>
+    <Name>Guitar Rig 5</Name>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>GuitarRig</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <RegKey>Guitar Rig 5</RegKey>
+    <SNPID>525531532533</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <BinName>Guitar Rig 5</BinName>
+    <PluginID fx="true">0x4e694735</PluginID>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <FactoryLibrary minVersion="2.0">Guitar Rig Pro Factory Library</FactoryLibrary>
+    <Flavour>
+      <Name>Guitar Rig 5 Pro</Name>
+      <SNPID>525</SNPID>
+      <Value>0</Value>
+      <FactoryLibrary minVersion="2">
+        <Name>Guitar Rig Pro Factory Library</Name>
+        <Directory>Rack Presets</Directory>
+      </FactoryLibrary>
+    </Flavour>
+    <Flavour>
+      <Name>Guitar Rig 5 Factory Selection</Name>
+      <SNPID>531</SNPID>
+      <Value>-3</Value>
+      <FactoryLibrary minVersion="2">
+        <Name>Guitar Rig Factory Selection Library</Name>
+        <Directory>Rack Presets\Elements Selection\LE\Factory Selection</Directory>
+      </FactoryLibrary>
+    </Flavour>
+    <Flavour>
+      <Name>Guitar Rig 5 Elements Selection</Name>
+      <SNPID>532</SNPID>
+      <Value>-2</Value>
+      <FactoryLibrary minVersion="2">
+        <Name>Guitar Rig Elements Selection Library</Name>
+        <Directory>Rack Presets\Elements Selection</Directory>
+      </FactoryLibrary>
+    </Flavour>
+    <Flavour>
+      <Name>Guitar Rig 5 LE</Name>
+      <SNPID>533</SNPID>
+      <FactoryLibrary minVersion="2">
+        <Name>Guitar Rig LE Library</Name>
+        <Directory>Rack Presets\Elements Selection\LE</Directory>
+      </FactoryLibrary>
+    </Flavour>
+    <Icon>guitar_rig</Icon>
+  </Product>
+</ProductHints>

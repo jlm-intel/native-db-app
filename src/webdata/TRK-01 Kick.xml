@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>a611725b-a68f-41a7-83a4-23fceff62e24</UPID>
+    <Name>TRK-01 Kick</Name>
+    <Type>Content</Type>
+    <RegKey>TRK-01 Kick</RegKey>
+    <SNPID>01K</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2.6.5" nativeContent="false">Maschine</Application>
+      <Application minVersion="1.8.2" nativeContent="false">KKontrol</Application>
+      <Application minVersion="6.2.1" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

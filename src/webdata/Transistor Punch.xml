@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="6">
+    <UPID>c58f7c7c-05a8-466f-bc65-ba8c27ed7378</UPID>
+    <Name>Transistor Punch</Name>
+    <Type>Content</Type>
+    <RegKey>Transistor Punch</RegKey>
+    <SNPID>331</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">KKontrol</Application>
+      <Application nativeContent="true">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x01</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

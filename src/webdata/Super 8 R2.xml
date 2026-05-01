@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>6b286b6d-6bf6-4d08-a62c-4526b41bf32e</UPID>
+    <Name>Super 8</Name>
+    <InternalName>Super 8 R2</InternalName>
+    <Type>Plugin</Type>
+    <RegKey>Super 8 R2</RegKey>
+    <SNPID>S82</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Supersession>
+      <UPID>f31749cd-9c92-4098-9277-02cf98f5218f</UPID>
+    </Supersession>
+    <BinName>Super 8</BinName>
+    <AuthAppID>500</AuthAppID>
+    <PluginID>0x4e495338</PluginID>
+    <Company>Native Instruments GmbH</Company>
+    <FactoryLibrary>
+      <Name>Super 8 Factory Presets</Name>
+      <Relevance>
+        <Application minVersion="2.12" nativeContent="false">Maschine</Application>
+        <Application minVersion="2.5" nativeContent="false">KKontrol</Application>
+      </Relevance>
+    </FactoryLibrary>
+  </Product>
+</ProductHints>

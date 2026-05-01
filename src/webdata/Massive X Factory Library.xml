@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>0b408693-bbb8-46a7-8a1d-bdc5fd3bcf66</UPID>
+    <Name>Massive X Factory Library</Name>
+    <Type>Content</Type>
+    <RegKey>Massive X Factory Library</RegKey>
+    <SNPID>MXL</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">MassiveX</Application>
+      <Application minVersion="2" nativeContent="false">KKontrol</Application>
+      <Application minVersion="2" nativeContent="false">Maschine</Application>
+    </Relevance>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+  </Product>
+</ProductHints>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>68cffbb8-7b20-4e9a-bee5-1dab962049ff</UPID>
+    <Name>Kontakt</Name>
+    <InternalName>Kontakt Application</InternalName>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Kontakt</Name>
+      <Version>6</Version>
+    </ProductFamily>
+    <RegKey>Kontakt Application</RegKey>
+    <SNPID>K6EK6P</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <BinName>Kontakt</BinName>
+    <PluginID>0x4e692444</PluginID>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <ShopLink>kontaktpricing</ShopLink>
+    <Flavour>
+      <Name>Kontakt 6 Player</Name>
+      <Serial>K6PMK-8THXP-JBDV6-T2APS-488RW</Serial>
+      <Value>-1</Value>
+    </Flavour>
+    <Icon>kontakt</Icon>
+    <Header>kontakt_header</Header>
+  </Product>
+</ProductHints>

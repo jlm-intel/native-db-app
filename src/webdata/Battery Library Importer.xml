@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProductHints spec="1.0.15">
+
+  <Product>
+    <Name>Battery Library Importer for Maschine</Name>
+    <Type>Content</Type>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>1</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <AuthSystem>None</AuthSystem>
+    <RegKey>Battery Library Importer for Maschine</RegKey>
+    <Icon>battery</Icon>    
+  </Product>
+
+</ProductHints>

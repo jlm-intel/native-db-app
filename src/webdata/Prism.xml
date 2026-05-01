@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="11">
+    <UPID>4c87b5ed-5b02-4a1e-aab9-ecfe505b8ab6</UPID>
+    <Name>Prism</Name>
+    <InternalName>Reaktor Prism</InternalName>
+    <Type>Content</Type>
+    <RegKey>Reaktor Prism</RegKey>
+    <SNPID>204</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.2">
+      <Application nativeContent="true">Reaktor</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.2">0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

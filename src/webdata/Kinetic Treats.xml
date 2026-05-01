@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>34bb8633-89a8-4741-82ce-a80e965c467f</UPID>
+    <Name>Kinetic Treats</Name>
+    <Type>Content</Type>
+    <RegKey>Kinetic Treats</RegKey>
+    <SNPID>022</SNPID>
+    <AuthSystem maxVersion="1.9.9">RAS2</AuthSystem>
+    <AuthSystem minVersion="2.0.0">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>E8671DC57F37A0CC7EF678C0304A40D1</HU>
+      <JDX>54493ABC0DD87863987B1B6563083DAEAB0BD41CB8E2BD8C0213C7A9DE1154C2</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+    <Product version="1">
+        <UPID>ea226fd7-ead8-4c4f-8815-d3ef2ee76ef0</UPID>
+        <Name>NEXUS</Name>
+        <RegKey>NEXUS</RegKey>
+        <BinName>NEXUS</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="false">0x4e455855</PluginID>
+        <Company>reFX</Company>
+        <FactoryLibrary>
+            <Name>reFX NEXUS Content</Name>
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

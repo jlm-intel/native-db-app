@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>08bf6a40-7770-4020-b73b-416444002468</UPID>
+    <Name>Marble Rims</Name>
+    <Type>Content</Type>
+    <RegKey>Marble Rims</RegKey>
+    <SNPID>295</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <AuthSystem minVersion="2">RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="2" nativeContent="true">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Maschine</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>false</NKSEnabled>
+    <Icon>maschine</Icon>
+  </Product>
+</ProductHints>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>01efe047-b70d-49d0-a435-eeaca3ec3db0</UPID>
+    <Name>TRK-01 Bass</Name>
+    <Type>Content</Type>
+    <RegKey>TRK-01 Bass</RegKey>
+    <SNPID>01B</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application minVersion="1.8.2" nativeContent="false">KKontrol</Application>
+      <Application minVersion="2.6.5" nativeContent="false">Maschine</Application>
+      <Application minVersion="6.2.1" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

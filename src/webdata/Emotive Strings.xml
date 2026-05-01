@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>c6bf08d5-58b3-4348-b984-7a5ef9fcfa7d</UPID>
+    <Name>Emotive Strings</Name>
+    <Type>Content</Type>
+    <RegKey>Emotive Strings</RegKey>
+    <SNPID>569</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>574D81AF6F9B0B18D689C39D6E77D985</HU>
+      <JDX>8502180F987C3FBD1BDD9FC162487F611FD05C1F6A0DA3A699D66BDC17824C7D</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

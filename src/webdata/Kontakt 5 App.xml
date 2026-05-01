@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>3cede7e3-b10d-4c72-a6cb-fe5217399507</UPID>
+    <Name>Kontakt 5</Name>
+    <InternalName>Kontakt 5 Application</InternalName>
+    <Type>App</Type>
+    <ProductFamily>
+      <Name>Kontakt</Name>
+      <Version>5</Version>
+    </ProductFamily>
+    <RegKey>Kontakt 5</RegKey>
+    <SNPID>322323</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <BinName>Kontakt 5</BinName>
+    <PluginID>0x4e694f35</PluginID>
+    <HostMode>Engine</HostMode>
+    <Company>Native Instruments GmbH</Company>
+    <ShopLink>kontaktpricing</ShopLink>
+    <Flavour>
+      <Name>Kontakt Player 5</Name>
+      <AuthSystem>None</AuthSystem>
+      <Serial>32393-90310-95194-49904-71939</Serial>
+    </Flavour>
+    <Icon>kontakt</Icon>
+    <Header>kontakt_header</Header>
+  </Product>
+</ProductHints>

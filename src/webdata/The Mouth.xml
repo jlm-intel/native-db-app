@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>832f1c60-3766-49ef-9e36-df98c05bd56a</UPID>
+    <Type>Content</Type>
+    <Name>The Mouth</Name>
+    <Company>Tim Exile</Company>
+    <Website>http://www.timexile.com/</Website>
+    <PoweredBy>Reaktor</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <AuthSystem>RAS2</AuthSystem>
+    <Icon>reaktor</Icon>
+    <RegKey>The Mouth</RegKey>
+    <SNPID>209</SNPID>
+  </Product>
+</ProductHints>

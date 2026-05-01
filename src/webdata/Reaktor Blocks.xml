@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="7">
+    <UPID>65a280f7-c9b3-4ae2-b9ce-b945cfa4dcae</UPID>
+    <Name>Reaktor Blocks</Name>
+    <Type>Content</Type>
+    <RegKey>Reaktor Blocks</RegKey>
+    <SNPID>635</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application minVersion="6" nativeContent="true">Reaktor</Application>
+    </Relevance>
+    <Supersession>
+      <UPID>67583fb0-2d06-4b76-82ed-eaf043968ce3</UPID>
+    </Supersession>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>reaktor</Icon>
+  </Product>
+</ProductHints>

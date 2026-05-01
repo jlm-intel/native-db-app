@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+    <Product version="1">
+        <UPID>37626069-277c-45d5-86a1-ca3e0aaf9755</UPID>
+        <Name>chipsounds</Name>
+        <RegKey>Plogue-chipsounds</RegKey>
+        <BinName>chipsounds</BinName>
+        <AuthAppID>500</AuthAppID>
+        <PluginID fx="false">0x504C474F</PluginID> <!-- 'PLGO' -->
+        <Company>Plogue Art et Technologie, Inc</Company>
+        <FactoryLibrary>
+            <!-- Please do not change the properties below this line -->		
+            <Name>chipsounds Factory</Name>
+            <Relevance>
+                <Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+                <Application minVersion="2.4" nativeContent="false">Maschine</Application>
+            </Relevance>
+        </FactoryLibrary>
+        <Type>Plugin</Type>
+        <AuthSystem>None</AuthSystem>
+    </Product>
+</ProductHints>

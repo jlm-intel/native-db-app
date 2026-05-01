@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+ <Product version="1">
+  <UPID>4d4a0ae2-68a7-4070-9152-cc3761e6089e</UPID>
+   <Name>XILS V+ Inst</Name>
+	<Company>XILS-lab</Company> 
+	<RegKey>XILS V+ Inst</RegKey> 
+	<BinName>XILS V+ Inst</BinName> 
+	<AuthAppID>500</AuthAppID> 
+	<PluginID fx="false">0x5869562B</PluginID>
+	<FactoryLibrary>
+		<Name>XILS V+ Inst</Name>
+		<Relevance> 
+			<Application minVersion="1.5" nativeContent="false">KKontrol</Application> 
+			<Application minVersion="2.4.0" nativeContent="false">Maschine</Application> 
+		</Relevance>
+	</FactoryLibrary> 
+	<Type>Plugin</Type> 
+	<AuthSystem>None</AuthSystem> 
+	</Product>
+</ProductHints>  

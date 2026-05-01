@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="2">
+    <UPID>e52dbba0-8a98-4a88-9a4f-eb73ac0e32bc</UPID>
+    <Name>Pharlight</Name>
+    <Type>Content</Type>
+    <RegKey>Pharlight</RegKey>
+    <SNPID>K16</SNPID>
+    <AuthSystem>RAS3</AuthSystem>
+    <Relevance>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application minVersion="6" nativeContent="true">Kontakt</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>699237306F37FF70A89E5CCB3ED331F6</HU>
+      <JDX>C5D2F7613802A410CF6863992DB84E778A35D65F50D9CB31E1E36C0D532D5FEF</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

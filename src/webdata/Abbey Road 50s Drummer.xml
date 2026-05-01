@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="4">
+    <UPID>0a170919-0e5f-4eb2-8413-4980bf88e3c4</UPID>
+    <Name>Abbey Road 50s Drummer</Name>
+    <Type>Content</Type>
+    <RegKey>Abbey Road 50s Drummer</RegKey>
+    <SNPID>469</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>2734754FD48A58B5C14607789DD91FD1</HU>
+      <JDX>BA0AC6687B6F371553D86371D551B43D04D98A3ECB3342C5EF7832BDF4BD2CE3</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

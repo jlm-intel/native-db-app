@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>0a9027ba-078e-4dc3-8a8b-98af30bc6ebe</UPID>
+    <Name>Damage</Name>
+    <Type>Content</Type>
+    <RegKey>Damage</RegKey>
+    <SNPID>437</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>3640321C4F4F33CD5B117F701C0A1D3E</HU>
+      <JDX>2F3E7B75A431E89D21185FF7176B0660FE962B43A3FB34BBC43BD4FCDAB185EF</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Website>http://www.heavyocity.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

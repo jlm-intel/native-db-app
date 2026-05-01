@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="5">
+    <UPID>c5805413-cf11-4277-9097-bfc07210c709</UPID>
+    <Name>Maschine Drum Selection</Name>
+    <Type>Content</Type>
+    <RegKey>Maschine Drum Selection</RegKey>
+    <SNPID>402</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1">
+      <Application nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1">0x07</Visibility>
+    <ProductSpecific>
+      <HU>9DC30EAA5022CE164AB8BF61485D2F37</HU>
+      <JDX>CADCE3C7251A8034566254EDC19A831E375E056B1A99EE27C152F2C71DC92896</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

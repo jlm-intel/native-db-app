@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="1">
+    <UPID>67963537-d601-47fa-a989-4276b51de74c</UPID>
+    <Name>Thrill</Name>
+    <Type>Content</Type>
+    <RegKey>Thrill</RegKey>
+    <SNPID>949</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>AD9CABB8064E1DA065D6D7BB41FA20AA</HU>
+      <JDX>06E6E22E055407BC4A4497301775A9380A78804967ED0DF78F3AB1ADDC8017AB</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <NKSEnabled>true</NKSEnabled>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

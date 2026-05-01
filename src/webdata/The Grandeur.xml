@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>e612c6f8-d7ea-428c-ab30-6059c7797d16</UPID>
+    <Name>The Grandeur</Name>
+    <Type>Content</Type>
+    <RegKey>The Grandeur</RegKey>
+    <SNPID>487</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">KKontrol</Application>
+      <Application nativeContent="false">Maschine</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>F99EAAF28685FA348C5C476156360A5D</HU>
+      <JDX>7272ECAA30E7545C6FD6B40BAF3B9B5031FBC4FAA8B4077FFC7EF493DBE2EE21</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

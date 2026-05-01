@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="3">
+    <UPID>b4c9758d-87b0-4c3a-9062-eadd03df8857</UPID>
+    <Name>Retro Machines Mk2</Name>
+    <Type>Content</Type>
+    <RegKey>Retro Machines Mk2</RegKey>
+    <SNPID>436</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance>
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility>0x07</Visibility>
+    <ProductSpecific>
+      <HU>FE7848570169E353A93322ABFF2D5184</HU>
+      <JDX>C2994736062FF486C0B43319C02D54CE8BB231A74D060E38260504BA9DF837F1</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Native Instruments GmbH</Company>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>

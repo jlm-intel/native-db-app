@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+	<Product version="1.5.4">
+		<UPID>c40be9a2-8eb0-11e5-8994-feff819cdc9f</UPID>
+		<Name>Largo</Name>
+		<RegKey>Largo</RegKey>
+		<BinName>Largo</BinName>
+		<AuthAppID>500</AuthAppID>
+		<PluginID fx="false">0x33453830</PluginID>
+		<Company>Waldorf</Company>
+		<FactoryLibrary>
+			<Name>Largo</Name>
+			<Relevance>
+				<Application minVersion="1.5" nativeContent="false">KKontrol</Application>
+				<Application minVersion="2.4" nativeContent="false">Maschine</Application>
+			</Relevance>
+		</FactoryLibrary>
+		<Type>Plugin</Type>
+		<AuthSystem>None</AuthSystem>
+	</Product>
+</ProductHints>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductHints>
+  <Product version="8">
+    <UPID>e21acc84-ce2e-4601-b820-add29eeb56a8</UPID>
+    <Name>Scarbee Vintage Keys</Name>
+    <Type>Content</Type>
+    <RegKey>Scarbee Vintage Keys</RegKey>
+    <SNPID>422</SNPID>
+    <AuthSystem>RAS2</AuthSystem>
+    <Relevance minVersion="1.1.0">
+      <Application minVersion="5" nativeContent="true">Kontakt</Application>
+      <Application nativeContent="false">Maschine</Application>
+      <Application nativeContent="false">KKontrol</Application>
+    </Relevance>
+    <PoweredBy>Kontakt</PoweredBy>
+    <Visibility minVersion="1.1.0">0x07</Visibility>
+    <Supersession>
+      <UPID>a1dc3f29-9cfa-4931-9430-1d93616f5040</UPID>
+      <UPID>f45a63a6-cb73-44b2-b472-cf33af7bd312</UPID>
+      <UPID>e59887d9-7ce9-4c75-9759-02bc403e8c93</UPID>
+    </Supersession>
+    <ProductSpecific>
+      <HU>5C37C3F3560660413B28C3FDA072C1B1</HU>
+      <JDX>F005B60272D48B0041519798888DF584EF1B3E0E64C5666A1B7EE048D39809AA</JDX>
+      <Visibility type="Number">3</Visibility>
+    </ProductSpecific>
+    <Company>Scarbee</Company>
+    <Website>http://www.scarbee.com/mailinglist</Website>
+    <Icon>kontakt</Icon>
+  </Product>
+</ProductHints>
