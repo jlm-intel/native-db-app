@@ -24,12 +24,14 @@ def get_product_info(root):
     """Extracts product information from the XML root element."""
     data = []
     for product in root.findall('Product'):
+        prod_version = product.get('version') or "1.0.0"
         p_company = product.findtext('Company')
         p_type = product.findtext('Type')
         row = {
             "Name": product.findtext('Name'),
             "Company": p_company,
-            "Type": p_type
+            "Type": p_type,
+            "Version": prod_version
         }
 
         # log all unique company names and product types to session state sets for use in the filter dropdowns
@@ -146,6 +148,7 @@ def find_app_dependencies(file_list, app_name):
             root = tree.getroot()
 
             for product in root.findall('Product'):
+                prod_version = product.get('version') or "1.0.0"
                 latest_dependency = get_latest_dependency(product)
                 if latest_dependency is not None:
                     for cur_app in latest_dependency.findall('AppDependency'):
@@ -155,7 +158,8 @@ def find_app_dependencies(file_list, app_name):
                                 "Name": product.findtext('Name'),
                                 "Company": product.findtext('Company'),
                                 f"Min. {app_name} ver.": v_string,
-                                "Type": product.findtext('Type')
+                                "Type": product.findtext('Type'),
+                                "Version": prod_version
                             }
                             data.append(row)
         except Exception as e:
@@ -163,11 +167,31 @@ def find_app_dependencies(file_list, app_name):
 
     if len(data) == 0:
         log_to_ui(f"No products found that depend on {app_name}.")
+        result_df = pd.DataFrame(data)
     else:
-        st.session_state.data_frame_dep = pd.DataFrame(data)
+        result_df = pd.DataFrame(data)
+        result_df = deduplicate_by_name_and_version(result_df)
+        st.session_state.data_frame_dep = result_df
         st.session_state.dependency_view = True
 
-    return pd.DataFrame(data)
+    return result_df
+
+
+def deduplicate_by_name_and_version(data_frame):
+    """Keeps only one row per Name, choosing the row with the highest parsed Version."""
+    if data_frame is None or data_frame.empty:
+        return data_frame
+
+    if 'Name' not in data_frame.columns or 'Version' not in data_frame.columns:
+        return data_frame
+
+    df = data_frame.copy()
+    df['_parsed_version'] = df['Version'].apply(
+        lambda x: version.parse(x) if pd.notna(x) else version.parse("0"))
+    idx = df.groupby('Name', sort=False)['_parsed_version'].idxmax()
+    result_df = df.loc[idx].drop(
+        columns=['_parsed_version']).reset_index(drop=True)
+    return result_df
 
 
 def parse_relevant_data(file_list, task_id):
@@ -193,11 +217,14 @@ def parse_relevant_data(file_list, task_id):
 
     if len(data) == 0:
         log_to_ui("No relevant data found in the XML files.")
+        result_df = pd.DataFrame(data)
     else:
-        st.session_state.data_frame_all = pd.DataFrame(data)
+        result_df = pd.DataFrame(data)
+        result_df = deduplicate_by_name_and_version(result_df)
+        st.session_state.data_frame_all = result_df
         st.session_state.dependency_view = False
 
-    return pd.DataFrame(data)
+    return result_df
 
 
 # function constants and task map (for use with parse_relevant_data's task_id parameter)
@@ -251,7 +278,7 @@ def is_cloud():
 
 def main():
 
-    st.title("Native DB App")
+    st.title("UltimateOutsider's Native DB App")
 
     # initialize session state variables
     if ('files_not_found' not in st.session_state):
@@ -329,6 +356,9 @@ def main():
             st.subheader("Table of products:")
             # log_to_ui("Displaying parsed data...")
             st.dataframe(data_view)
+
+        st.link_button("Visit the UltimateOutsider blog for more information on this app.",
+                       "https://medium.ultimateoutsider.com/explore-native-instruments-product-dependencies-with-the-native-db-app-abd7fbce3bcd")
 
     show_logs = st.sidebar.checkbox("Show Log Console", value=False)
     if show_logs:
