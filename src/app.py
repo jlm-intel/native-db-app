@@ -289,15 +289,15 @@ def main():
         st.session_state.file_list = []
         st.session_state.app_list = []
         st.session_state.log_container = None
+        st.session_state.company_names = set()
+        st.session_state.product_types = set()
+        st.session_state.dependency_view = False
         if is_cloud():
             # when running in the cloud the working directory is the repo root, so we need to point into the src folder for the static XML data
             st.session_state.dir_path = "src/webdata"
         else:
             # default windows system path below. mac os default would be "[System HD]/Library/Application Support/Native Instruments/Service Center"
             st.session_state.dir_path = r"C:\Program Files\Common Files\Native Instruments\Service Center"
-        st.session_state.company_names = set()
-        st.session_state.product_types = set()
-        st.session_state.dependency_view = False
 
     # if no xml files are found at the default path, prompt the user to enter a path and search for XML files
     if st.session_state.files_not_found:
@@ -349,8 +349,9 @@ def main():
         # st.sidebar.button("Reset Filters", on_click=reset_filters,
         #                   help="Reset all filters to their default values.")
 
-        st.button("Reload all products", disabled=st.session_state.files_not_found,
-                  on_click=parse_relevant_data, args=(st.session_state.file_list, FUNC_PRODUCT_INFO), help="This will reload the full product list without any application dependency filters.")
+        # i don't think we need this button anymore because i think all events now trigger a full reload and render
+        # st.button("Reload all products", disabled=st.session_state.files_not_found,
+        #          on_click=parse_relevant_data, args=(st.session_state.file_list, FUNC_PRODUCT_INFO), help="This will reload the full product list without any application dependency filters.")
 
         if data_view is not None:
             st.subheader("Table of products:")
