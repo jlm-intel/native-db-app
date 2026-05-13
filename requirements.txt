@@ -1,7 +1,15 @@
 # Python 3.14
 # -----------
 
+# note, I used specific versions of these packages to initially build the app, but they are not currently
+# supported by the Stlite packager, so I am letting the packager use its known good versions. For future reference,
+# here are the versions I used:
+# pandas>=3.0.2
+# streamlit>=1.56.0
+# lxml>=6.1.0
+
+
 # pip packages
-pandas>=3.0.2
-streamlit>=1.56.0
-lxml>=6.1.0
+pandas
+streamlit
+lxml

@@ -1,0 +1,47 @@
+{
+  "name": "ultimateoutsider-nativedb-app",
+  "version": "1.0.0",
+  "description": "Native DB App built with Streamlit and stlite",
+  "author": "Josh M",
+  "main": "./build/electron/main.js",
+  "scripts": {
+    "dump": "dump-stlite-desktop-artifacts",
+    "dist": "npx electron-builder",
+    "serve": "electron ./build/electron/main.js"
+  },
+  "stlite": {
+    "desktop": {
+      "nodeJsWorker": true,
+      "nodefsMountpoints": {
+        "/local_data": "C:\\Program Files\\Common Files\\Native Instruments\\Service Center"
+      },
+      "files": [
+        "app.py"
+      ],
+      "entrypoint": "app.py",
+      "installPackages": [
+        "pandas",
+        "lxml"
+      ]
+    }
+  },
+  "devDependencies": {
+    "@stlite/desktop": "^0.100.0",
+    "electron": "30.0.0"
+  },
+  "build": {
+    "productName": "Native DB App",
+    "win": {
+      "artifactName": "NativeDB_Setup_v${version}.${ext}"
+    },
+    "nsis": {
+      "artifactName": "NativeDB_Installer.${ext}"
+    },
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "build/**/*"
+    ]
+  }
+}

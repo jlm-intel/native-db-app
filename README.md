@@ -26,3 +26,8 @@ This project was a way for me to learn the Streamlit framework and the pandas AP
 
 For more detailed documentation, check my blog: https://medium.ultimateoutsider.com/
 
+PACKAGING NOTES
+As of 2026/05/13 Native DB App now supports being packaged as a Windows executable. Some notes in order to get packaging to work:
+- You will probably have to run this command from the VS Code terminal in order to build the packages without errors: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+- You will also have to enable Developer Mode in Windows Settings: Settings > System > Advanced > Developer Mode > ENABLED
+- Run this command to install stlite (assuming you have already installed Node.js): npm install --save-dev @stlite/desktop

@@ -3,6 +3,7 @@ import os  # path functions and directory access
 import glob  # file searching with wildcard support
 import xml.etree.ElementTree as ET  # XML parsing
 import pandas as pd  # data manipulation and DataFrame support
+import sys  # platform detection for stlite environment
 from packaging import version  # version parsing and comparison
 from collections import Counter  # counting occurrences of dependencies
 
@@ -276,6 +277,16 @@ def is_cloud():
     return os.environ.get("STREAMLIT_RUNTIME_ENV") is not None or os.getcwd().endswith("src/native-db-app")
 
 
+def get_data_path():
+    # Detect if we are running in the WebAssembly (stlite) environment
+    if sys.platform == "emscripten":
+        # Use the mount point specified in the package JSON
+        return "/local_data"
+    else:
+        # Use the Windows Native Instruments default path for local runs.
+        return r"C:\Program Files\Common Files\Native Instruments\Service Center"
+
+
 def main():
 
     st.title("UltimateOutsider's Native DB App")
@@ -297,7 +308,7 @@ def main():
             st.session_state.dir_path = "src/webdata"
         else:
             # default windows system path below. mac os default would be "[System HD]/Library/Application Support/Native Instruments/Service Center"
-            st.session_state.dir_path = r"C:\Program Files\Common Files\Native Instruments\Service Center"
+            st.session_state.dir_path = get_data_path()
 
     # if no xml files are found at the default path, prompt the user to enter a path and search for XML files
     if st.session_state.files_not_found:

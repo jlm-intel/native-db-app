@@ -1,0 +1,16 @@
+Helpful commands for UltimateOustider's NativeDB App
+----------------------------------------------------
+NOTE 1: All commands assume you are running from the NATIVE-DB-APP repo's src directory.
+
+NOTE 2: You must have streamlit and Node.js installed (which includes the npm command)
+
+NOTE 3: See the README.md in the parent directory for some notes on Stlite.
+
+# run the app locally
+streamlit run app
+
+# create staging area for windows Stlite package
+npm run dump
+
+# create app installer EXE
+npm run dist
