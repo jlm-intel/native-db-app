@@ -1,3 +1,7 @@
+# UltimateOutsider's Native DB App
+# Author: UltimateOutsider (Josh Mayfield)
+# GitHub: https://github.com/jlm-intel/native-db-app
+
 import streamlit as st  # web app framework
 import os  # path functions and directory access
 import glob  # file searching with wildcard support

@@ -12,5 +12,5 @@ streamlit run app
 # create staging area for windows Stlite package
 npm run dump
 
-# create app installer EXE
+# create app installer EXE (signed executable generated in the dist directory)
 npm run dist
